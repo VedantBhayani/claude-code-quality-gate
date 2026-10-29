@@ -1,0 +1,9 @@
+check,heuristic,failed,warned,checked,failure_rate
+subject,false,1,0,34,0.0294
+first_line_signal,true,0,0,34,0.0000
+length,false,2,25,34,0.0588
+reading_level,false,19,0,34,0.5588
+cta,false,0,0,34,0.0000
+variables,false,0,0,34,0.0000
+spam_words,false,0,0,34,0.0000
+sign_off,false,0,0,34,0.0000

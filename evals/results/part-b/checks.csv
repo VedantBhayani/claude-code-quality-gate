@@ -1,0 +1,273 @@
+post_id,company,check,passed,warning,heuristic,severity,reason
+greenhouse:hiddenlayer:5270420007,HiddenLayer,subject,true,false,false,2,"subject 'hiddenlayer federal sales build': 4 words, lowercase, no brackets/!/emoji"
+greenhouse:hiddenlayer:5270420007,HiddenLayer,first_line_signal,true,false,true,2,first line names the role 'Director of Federal Sales'
+greenhouse:hiddenlayer:5270420007,HiddenLayer,length,true,false,false,2,113 words (under 120)
+greenhouse:hiddenlayer:5270420007,HiddenLayer,reading_level,false,false,false,1,Flesch-Kincaid grade 8.7 (outside grade 5-7)
+greenhouse:hiddenlayer:5270420007,HiddenLayer,cta,true,false,false,2,one question CTA: 'Would it help to have that groundwork running before the new director starts?'
+greenhouse:hiddenlayer:5270420007,HiddenLayer,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:hiddenlayer:5270420007,HiddenLayer,spam_words,true,false,false,3,no spam trigger words
+greenhouse:hiddenlayer:5270420007,HiddenLayer,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,subject,true,false,false,2,"subject 'plentific gtm engineer': 3 words, lowercase, no brackets/!/emoji"
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,first_line_signal,true,false,true,2,first line names the role 'GTM Engineer'
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,length,true,true,false,2,124 words: within 150 max but not under 120
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,reading_level,false,false,false,1,Flesch-Kincaid grade 9.4 (outside grade 5-7)
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,cta,true,false,false,2,"one question CTA: 'Could that be useful alongside the hire, or is the plan to build it all in-house?'"
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,spam_words,true,false,false,3,no spam trigger words
+ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,subject,true,false,false,2,"subject 'xapien sdr playbooks': 3 words, lowercase, no brackets/!/emoji"
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,first_line_signal,true,false,true,2,first line names the role 'SDR Manager'
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,length,false,false,false,2,151 words (max 150)
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,reading_level,false,false,false,1,Flesch-Kincaid grade 10.1 (outside grade 5-7)
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,cta,true,false,false,2,"one question CTA: ""Would it help to see how that could sit alongside a new SDR Manager's tech stack work with RevOps?"""
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,spam_words,true,false,false,3,no spam trigger words
+ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:reachdesk:5008332101,Reachdesk,subject,true,false,false,2,"subject 'reachdesk bdr hire': 3 words, lowercase, no brackets/!/emoji"
+greenhouse:reachdesk:5008332101,Reachdesk,first_line_signal,true,false,true,2,first line names the role 'Business Development Representative'
+greenhouse:reachdesk:5008332101,Reachdesk,length,true,true,false,2,125 words: within 150 max but not under 120
+greenhouse:reachdesk:5008332101,Reachdesk,reading_level,true,false,false,1,Flesch-Kincaid grade 7.9 (within grade 5-7)
+greenhouse:reachdesk:5008332101,Reachdesk,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit underneath the new BDR role?'
+greenhouse:reachdesk:5008332101,Reachdesk,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:reachdesk:5008332101,Reachdesk,spam_words,true,false,false,3,no spam trigger words
+greenhouse:reachdesk:5008332101,Reachdesk,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,subject,true,false,false,2,"subject 'flow engineering sales build': 4 words, lowercase, no brackets/!/emoji"
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['accounts', 'across', 'aerospace', 'build', 'defense', 'director', 'engineering', 'enterprise', 'flow', 'hardware', 'hiring', 'land-and-expand', 'motions', 'named', 'sales']"
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,length,true,true,false,2,129 words: within 150 max but not under 120
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,reading_level,false,false,false,1,Flesch-Kincaid grade 8.4 (outside grade 5-7)
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,cta,true,false,false,2,"one question CTA: ""Is the groundwork for that sales team something you'd want help with, or is it already covered?"""
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,spam_words,true,false,false,3,no spam trigger words
+ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,subject,true,false,false,2,"subject 'fonoa revops hire': 3 words, lowercase, no brackets/!/emoji"
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['clay', 'go-to-market', 'gong', 'hubspot', 'manager', 'operations', 'revenue', 'salesforce', 'scale', 'senior', 'systems', 'workflows']"
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,length,true,true,false,2,137 words: within 150 max but not under 120
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,reading_level,false,false,false,1,Flesch-Kincaid grade 9.7 (outside grade 5-7)
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,cta,true,false,false,2,"one question CTA: 'Is that kind of build work something the new hire would own, or is it still open?'"
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,spam_words,true,false,false,3,no spam trigger words
+ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,subject,true,false,false,2,"subject 'tandem + rest of world': 5 words, lowercase, no brackets/!/emoji"
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['account', 'accounts', 'established', 'executive', 'first', 'healthcare', 'landscape', 'markets', 'pipeline', 'playbook', 'rest', 'target', 'without', 'world', 'zero']"
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,length,true,true,false,2,122 words: within 150 max but not under 120
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,reading_level,true,false,false,1,Flesch-Kincaid grade 7.8 (within grade 5-7)
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,cta,true,false,false,2,one question CTA: 'Would it help to see how that could support a new-market AE from day one?'
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,spam_words,true,false,false,3,no spam trigger words
+ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,subject,true,false,false,2,"subject 'tracksuit + uk outbound': 4 words, lowercase, no brackets/!/emoji"
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,first_line_signal,true,false,true,2,first line names the role 'Account Executive'
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,length,true,true,false,2,140 words: within 150 max but not under 120
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,reading_level,true,false,false,1,Flesch-Kincaid grade 6.7 (within grade 5-7)
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,cta,true,false,false,2,one question CTA: 'Would it help to see how that could look for the UK and Europe?'
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,spam_words,true,false,false,3,no spam trigger words
+ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:lighthouse:5011120101,Lighthouse,subject,false,false,false,2,subject 'lighthouse + outbound AEs': not lowercase
+greenhouse:lighthouse:5011120101,Lighthouse,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['account', 'accounts', 'cold', 'core', 'czech', 'executive', 'hungarian', 'not', 'outbound', 'sdr-reliant']"
+greenhouse:lighthouse:5011120101,Lighthouse,length,true,true,false,2,130 words: within 150 max but not under 120
+greenhouse:lighthouse:5011120101,Lighthouse,reading_level,true,false,false,1,Flesch-Kincaid grade 6.8 (within grade 5-7)
+greenhouse:lighthouse:5011120101,Lighthouse,cta,true,false,false,2,"one question CTA: 'Is that layer already covered for the new AE, or still being worked out?'"
+greenhouse:lighthouse:5011120101,Lighthouse,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:lighthouse:5011120101,Lighthouse,spam_words,true,false,false,3,no spam trigger words
+greenhouse:lighthouse:5011120101,Lighthouse,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,subject,true,false,false,2,"subject 'trmlabs + dach pipeline': 4 words, lowercase, no brackets/!/emoji"
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,first_line_signal,true,false,true,2,"first line names the role 'Account Director, Private Sector (DACH)'"
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,length,true,true,false,2,139 words: within 150 max but not under 120
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,reading_level,true,false,false,1,Flesch-Kincaid grade 7.4 (within grade 5-7)
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,cta,true,false,false,2,one question CTA: 'Would it help to see how that could work for the DACH territory?'
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,spam_words,true,false,false,3,no spam trigger words
+ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,subject,true,false,false,2,"subject 'vendelux mid-market playbook': 3 words, lowercase, no brackets/!/emoji"
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,first_line_signal,true,false,true,2,"first line names the role 'Manager, Mid-Market Sales'"
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,length,true,true,false,2,125 words: within 150 max but not under 120
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,reading_level,false,false,false,1,Flesch-Kincaid grade 10.1 (outside grade 5-7)
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,cta,true,false,false,2,"one question CTA: ""Would it help to hear how that could support the new manager's first quarter?"""
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,spam_words,true,false,false,3,no spam trigger words
+ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,subject,true,false,false,2,"subject 'dotfile + emea outbound': 4 words, lowercase, no brackets/!/emoji"
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,first_line_signal,true,false,true,2,first line names the role 'Sales Director EMEA'
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,length,true,true,false,2,131 words: within 150 max but not under 120
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,reading_level,false,false,false,1,Flesch-Kincaid grade 9.2 (outside grade 5-7)
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,cta,true,false,false,2,one question CTA: 'Would it help if the foundation was already running when your new director starts?'
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,spam_words,true,false,false,3,no spam trigger words
+ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,subject,true,false,false,2,"subject 'frontify + outbound': 3 words, lowercase, no brackets/!/emoji"
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['accounts', 'calls', 'campaigns', 'cold', 'emails', 'high', 'market', 'multi-touch', 'target', 'volume']"
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,length,true,true,false,2,138 words: within 150 max but not under 120
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,reading_level,false,false,false,1,Flesch-Kincaid grade 8.3 (outside grade 5-7)
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,cta,true,false,false,2,one question CTA: 'Would it help to see how that could look inside your CRM and Slack?'
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,spam_words,true,false,false,3,no spam trigger words
+ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:buynomics:5004674101,Buynomics,subject,true,false,false,2,"subject 'buynomics gtm systems': 3 words, lowercase, no brackets/!/emoji"
+greenhouse:buynomics:5004674101,Buynomics,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['automation', 'claude', 'hubspot', 'manager', 'n8n', 'operations', 'revenue', 'salesforce', 'systems', 'zapier']"
+greenhouse:buynomics:5004674101,Buynomics,length,true,false,false,2,117 words (under 120)
+greenhouse:buynomics:5004674101,Buynomics,reading_level,false,false,false,1,Flesch-Kincaid grade 8.3 (outside grade 5-7)
+greenhouse:buynomics:5004674101,Buynomics,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit alongside the new role?'
+greenhouse:buynomics:5004674101,Buynomics,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:buynomics:5004674101,Buynomics,spam_words,true,false,false,3,no spam trigger words
+greenhouse:buynomics:5004674101,Buynomics,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:coherehealth:8016709003,Cohere Health,subject,true,false,false,2,"subject 'cohere health outbound': 3 words, lowercase, no brackets/!/emoji"
+greenhouse:coherehealth:8016709003,Cohere Health,first_line_signal,true,false,true,2,first line names the role 'Business Development Representative'
+greenhouse:coherehealth:8016709003,Cohere Health,length,true,true,false,2,125 words: within 150 max but not under 120
+greenhouse:coherehealth:8016709003,Cohere Health,reading_level,true,false,false,1,Flesch-Kincaid grade 7.9 (within grade 5-7)
+greenhouse:coherehealth:8016709003,Cohere Health,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit behind your new BDR?'
+greenhouse:coherehealth:8016709003,Cohere Health,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:coherehealth:8016709003,Cohere Health,spam_words,true,false,false,3,no spam trigger words
+greenhouse:coherehealth:8016709003,Cohere Health,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:levanta:5449319008,Levanta,subject,true,false,false,2,"subject 'levanta + sdr hiring': 4 words, lowercase, no brackets/!/emoji"
+greenhouse:levanta:5449319008,Levanta,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['across', 'email', 'high-volume', 'linkedin', 'million', 'outbound', 'phone', 'sdr', 'series']"
+greenhouse:levanta:5449319008,Levanta,length,true,false,false,2,111 words (under 120)
+greenhouse:levanta:5449319008,Levanta,reading_level,false,false,false,1,Flesch-Kincaid grade 8.1 (outside grade 5-7)
+greenhouse:levanta:5449319008,Levanta,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit behind your new SDR?'
+greenhouse:levanta:5449319008,Levanta,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:levanta:5449319008,Levanta,spam_words,true,false,false,3,no spam trigger words
+greenhouse:levanta:5449319008,Levanta,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,subject,true,false,false,2,"subject 'deepgram + india sales': 4 words, lowercase, no brackets/!/emoji"
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,first_line_signal,true,false,true,2,first line names the role 'Account Executive (India)'
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,length,true,true,false,2,126 words: within 150 max but not under 120
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,reading_level,true,false,false,1,Flesch-Kincaid grade 7.6 (within grade 5-7)
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,cta,true,false,false,2,one question CTA: 'Would it help if your India AE started with that groundwork already in the CRM?'
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,spam_words,true,false,false,3,no spam trigger words
+ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,sign_off,true,false,false,3,signs off with {{senderName}}
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,subject,true,false,false,2,"subject 'vivenu + sales enablement': 4 words, lowercase, no brackets/!/emoji"
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['audit', 'bottlenecks', 'conversion', 'dashboards', 'deal', 'director', 'enablement', 'funnel', 'global', 'individual', 'kpi', 'playbooks', 'repeatable', 'sales', 'wins']"
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,length,true,true,false,2,138 words: within 150 max but not under 120
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,reading_level,false,false,false,1,Flesch-Kincaid grade 10.9 (outside grade 5-7)
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit alongside the enablement work?'
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,spam_words,true,false,false,3,no spam trigger words
+lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:emnify:5004134101,emnify,subject,true,false,false,2,"subject 'emnify gtm engineer': 3 words, lowercase, no brackets/!/emoji"
+greenhouse:emnify:5004134101,emnify,first_line_signal,true,false,true,2,first line names the role 'GTM Engineer'
+greenhouse:emnify:5004134101,emnify,length,true,true,false,2,126 words: within 150 max but not under 120
+greenhouse:emnify:5004134101,emnify,reading_level,false,false,false,1,Flesch-Kincaid grade 9.0 (outside grade 5-7)
+greenhouse:emnify:5004134101,emnify,cta,true,false,false,2,"one question CTA: 'Is the plan to build all of it in-house, or would a second pair of hands on the groundwork be useful?'"
+greenhouse:emnify:5004134101,emnify,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:emnify:5004134101,emnify,spam_words,true,false,false,3,no spam trigger words
+greenhouse:emnify:5004134101,emnify,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:connecteam:6228416004,Connecteam,subject,true,false,false,2,"subject 'connecteam + smb emea sales': 5 words, lowercase, no brackets/!/emoji"
+greenhouse:connecteam:6228416004,Connecteam,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['account', 'businesses', 'customers', 'executive', 'paying', 'platform', 'signed']"
+greenhouse:connecteam:6228416004,Connecteam,length,true,false,false,2,113 words (under 120)
+greenhouse:connecteam:6228416004,Connecteam,reading_level,false,false,false,1,Flesch-Kincaid grade 8.8 (outside grade 5-7)
+greenhouse:connecteam:6228416004,Connecteam,cta,true,false,false,2,one question CTA: 'Would it help to see how that could look for an EMEA SMB team?'
+greenhouse:connecteam:6228416004,Connecteam,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:connecteam:6228416004,Connecteam,spam_words,true,false,false,3,no spam trigger words
+greenhouse:connecteam:6228416004,Connecteam,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,subject,true,false,false,2,"subject 'upguard sales hiring': 3 words, lowercase, no brackets/!/emoji"
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,first_line_signal,true,false,true,2,first line names the role 'Regional Sales Manager'
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,length,true,true,false,2,130 words: within 150 max but not under 120
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,reading_level,false,false,false,1,Flesch-Kincaid grade 10.1 (outside grade 5-7)
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,cta,true,false,false,2,"one question CTA: ""Is getting new reps productive quickly something you're thinking about?"""
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,spam_words,true,false,false,3,no spam trigger words
+ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,subject,true,false,false,2,"subject 'incident.io + outbound': 3 words, lowercase, no brackets/!/emoji"
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,first_line_signal,true,false,true,2,first line names the role 'Account Executive'
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,length,true,false,false,2,109 words (under 120)
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,reading_level,false,false,false,1,Flesch-Kincaid grade 8.1 (outside grade 5-7)
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,cta,true,false,false,2,one question CTA: 'Would it help to see how that could sit underneath your AE pods?'
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,spam_words,true,false,false,3,no spam trigger words
+ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,subject,true,false,false,2,"subject 'bland ai + sales hiring': 5 words, lowercase, no brackets/!/emoji"
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['enterprise', 'hiring', 'leader', 'marketing', 'place', 'playbooks', 'process', 'revops', 'sales', 'scale', 'shape', 'structure']"
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,length,false,false,false,2,152 words (max 150)
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,reading_level,true,false,false,1,Flesch-Kincaid grade 7.5 (within grade 5-7)
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,cta,true,false,false,2,one question CTA: 'Would it help to see how that could look for the incoming sales leader?'
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,spam_words,true,false,false,3,no spam trigger words
+ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,subject,true,false,false,2,"subject 'tenex + pod pipeline': 4 words, lowercase, no brackets/!/emoji"
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,first_line_signal,true,false,true,2,first line names the role 'Regional Sales Director'
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,length,true,true,false,2,134 words: within 150 max but not under 120
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,reading_level,true,false,false,1,Flesch-Kincaid grade 6.8 (within grade 5-7)
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,cta,true,false,false,2,one question CTA: 'Would it help to see how that could take the list and research work off the pod?'
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,spam_words,true,false,false,3,no spam trigger words
+ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,sign_off,true,false,false,3,signs off with {{senderName}}
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,subject,true,false,false,2,"subject 'cents + bdr outbound': 4 words, lowercase, no brackets/!/emoji"
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['bdr', 'cents', 'cold', 'laundromat', 'multi-store', 'outbound', 'outreach', 'owners', 'prospecting', 'single-store']"
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,length,true,true,false,2,131 words: within 150 max but not under 120
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,reading_level,true,false,false,1,Flesch-Kincaid grade 7.5 (within grade 5-7)
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,cta,true,false,false,2,one question CTA: 'Would it help if your BDR started with that already in place?'
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,spam_words,true,false,false,3,no spam trigger words
+lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:cognism:5004981101,Cognism,subject,true,false,false,2,"subject 'cognism sdr hiring': 3 words, lowercase, no brackets/!/emoji"
+greenhouse:cognism:5004981101,Cognism,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['calls', 'cold', 'emails', 'high', 'inbound', 'leads', 'linkedin', 'outreach', 'sdr', 'volume']"
+greenhouse:cognism:5004981101,Cognism,length,true,true,false,2,133 words: within 150 max but not under 120
+greenhouse:cognism:5004981101,Cognism,reading_level,true,false,false,1,Flesch-Kincaid grade 7.0 (within grade 5-7)
+greenhouse:cognism:5004981101,Cognism,cta,true,false,false,2,one question CTA: 'Would it be useful to see how that could support the new SDR from day one?'
+greenhouse:cognism:5004981101,Cognism,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:cognism:5004981101,Cognism,spam_words,true,false,false,3,no spam trigger words
+greenhouse:cognism:5004981101,Cognism,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,subject,true,false,false,2,"subject 'eye security + ae pipeline': 5 words, lowercase, no brackets/!/emoji"
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,first_line_signal,true,false,true,2,first line names the role 'Account Executive'
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,length,true,true,false,2,124 words: within 150 max but not under 120
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,reading_level,false,false,false,1,Flesch-Kincaid grade 8.3 (outside grade 5-7)
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,cta,true,false,false,2,"one question CTA: ""Would it help to see how that could work for the new AE's first weeks?"""
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,spam_words,true,false,false,3,no spam trigger words
+ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:ketryx:5450232008,Ketryx,subject,true,false,false,2,"subject 'ketryx + smb pipeline': 4 words, lowercase, no brackets/!/emoji"
+greenhouse:ketryx:5450232008,Ketryx,first_line_signal,true,false,true,2,"first line names the role 'Account Executive, SMB'"
+greenhouse:ketryx:5450232008,Ketryx,length,true,true,false,2,122 words: within 150 max but not under 120
+greenhouse:ketryx:5450232008,Ketryx,reading_level,true,false,false,1,Flesch-Kincaid grade 7.4 (within grade 5-7)
+greenhouse:ketryx:5450232008,Ketryx,cta,true,false,false,2,one question CTA: 'Would it help to see how that could support a new SMB AE from day one?'
+greenhouse:ketryx:5450232008,Ketryx,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:ketryx:5450232008,Ketryx,spam_words,true,false,false,3,no spam trigger words
+greenhouse:ketryx:5450232008,Ketryx,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,subject,true,false,false,2,"subject 'vertice apac hire': 3 words, lowercase, no brackets/!/emoji"
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,first_line_signal,true,false,true,2,first line names the role 'Account Executive - APAC'
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,length,true,true,false,2,138 words: within 150 max but not under 120
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,reading_level,true,false,false,1,Flesch-Kincaid grade 7.9 (within grade 5-7)
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,cta,true,false,false,2,"one question CTA: ""Would it help to see how that could work for the APAC AE's first quarter?"""
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,spam_words,true,false,false,3,no spam trigger words
+ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,subject,true,false,false,2,"subject 'lost-lead revival at companycam': 4 words, lowercase, no brackets/!/emoji"
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,first_line_signal,true,false,true,2,first line names the role 'Inside Sales Associate'
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,length,true,true,false,2,121 words: within 150 max but not under 120
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,reading_level,false,false,false,1,Flesch-Kincaid grade 10.1 (outside grade 5-7)
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,cta,true,false,false,2,"one question CTA: 'Is lead revival something your team would want help systemizing, or is RevOps already on it?'"
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,spam_words,true,false,false,3,no spam trigger words
+ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,subject,true,false,false,2,"subject 'laurel + enterprise ae hire': 5 words, lowercase, no brackets/!/emoji"
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,first_line_signal,true,false,true,2,first line names the role 'Enterprise Account Executive'
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,length,true,true,false,2,132 words: within 150 max but not under 120
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,reading_level,false,false,false,1,Flesch-Kincaid grade 8.5 (outside grade 5-7)
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,cta,true,false,false,2,one question CTA: 'Would it help to see how that could back up the new AE from day one?'
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,spam_words,true,false,false,3,no spam trigger words
+ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,sign_off,true,false,false,3,signs off with {{senderName}}
+greenhouse:datarails:4438253009,Datarails,subject,true,false,false,2,"subject 'datarails sales lead role': 4 words, lowercase, no brackets/!/emoji"
+greenhouse:datarails:4438253009,Datarails,first_line_signal,true,false,true,2,"first line uses evidence term(s) ['coach', 'datarails', 'evolving', 'gaps', 'lead', 'own', 'pipeline', 'processes', 'sales', 'still']"
+greenhouse:datarails:4438253009,Datarails,length,true,true,false,2,129 words: within 150 max but not under 120
+greenhouse:datarails:4438253009,Datarails,reading_level,true,false,false,1,Flesch-Kincaid grade 6.5 (within grade 5-7)
+greenhouse:datarails:4438253009,Datarails,cta,true,false,false,2,one question CTA: 'Would it help if that groundwork was already handled when your new lead starts?'
+greenhouse:datarails:4438253009,Datarails,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+greenhouse:datarails:4438253009,Datarails,spam_words,true,false,false,3,no spam trigger words
+greenhouse:datarails:4438253009,Datarails,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,subject,true,false,false,2,"subject '7shifts + mid-market partners': 4 words, lowercase, no brackets/!/emoji"
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,first_line_signal,true,false,true,2,"first line names the role 'Partner Manager, Mid-Market'"
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,length,true,false,false,2,111 words (under 120)
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,reading_level,true,false,false,1,Flesch-Kincaid grade 7.9 (within grade 5-7)
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,cta,true,false,false,2,"one question CTA: 'Is that groundwork already covered for the new role, or still being figured out?'"
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,spam_words,true,false,false,3,no spam trigger words
+ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,sign_off,true,false,false,3,signs off with {{senderName}}
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,subject,true,false,false,2,"subject 'abacum + partner pipeline': 4 words, lowercase, no brackets/!/emoji"
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,first_line_signal,true,false,true,2,first line names the role 'Senior Partner Account Manager'
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,length,true,false,false,2,96 words (under 120)
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,reading_level,false,false,false,1,Flesch-Kincaid grade 8.3 (outside grade 5-7)
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,cta,true,false,false,2,one question CTA: 'Would it help to see how that could support the new role?'
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,variables,true,false,false,3,"merge fields filled at send: {{firstName}}, {{senderName}}"
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,spam_words,true,false,false,3,no spam trigger words
+ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,sign_off,true,false,false,3,signs off with {{senderName}}

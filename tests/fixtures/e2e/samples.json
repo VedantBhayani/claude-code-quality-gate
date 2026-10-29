@@ -1,0 +1,13 @@
+{
+  "natural": [
+    "gh-acme-1",
+    "lv-globex-1",
+    "ab-initech-1",
+    "gh-hooli-1"
+  ],
+  "ambiguous": [
+    "lv-initrode-1",
+    "ab-vandelay-1"
+  ],
+  "opus": []
+}

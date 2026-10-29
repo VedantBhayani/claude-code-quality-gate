@@ -1,0 +1,56 @@
+# Hand-written `claude` CLI outputs for the runner tests.
+# Unless marked as recorded below, no real `claude` call made these. They follow the shapes in
+# Anthropic's docs ([TS] Agent SDK SDKResultMessage, [HL] headless mode, [SO] structured outputs,
+# [CLI] claude auth status). Recorded fixtures from the day-1 pilot are marked as such.
+#
+# DOCUMENTED fields (02a):
+#   result: type="result", subtype ("success" | "error_max_structured_output_retries"),
+#           is_error, structured_output (absent when no valid output, even on success),
+#           result (text), total_cost_usd, usage, modelUsage (keyed by model ID),
+#           duration_ms, duration_api_ms, num_turns, session_id, permission_denials,
+#           stop_reason, errors (checked on retries errors).
+#   system/init: type="system", subtype="init", model.
+#   rate_limit_event: type="rate_limit_event", rate_limit_info.status
+#           ("allowed" | "allowed_warning" | "rejected"), rate_limit_info.resetsAt,
+#           rate_limit_info.utilization, rate_limit_info.errorCode ("credits_required").
+#   system/api_retry: type="system", subtype="api_retry", error ("rate_limit" | "billing_error").
+#   auth status: authMethod ("claude.ai" | "api_key" | "api_key_helper" | "oauth_token").
+#
+# ASSUMED (to be confirmed by the pilot):
+#   - `--output-format json --verbose` prints a JSON array of every message
+#     (system/init ... result); without --verbose only the result object
+#     (success_result_only.json). The parser accepts an object, an array or JSONL.
+#   - `claude auth status` prints a JSON object; loggedIn and apiProvider are
+#     illustrative. The parser also accepts an `authMethod: <value>` text line.
+#   - `claude --version` prints "<semver> (Claude Code)" (version.txt).
+#   - resetsAt is epoch seconds; the runner records it as given.
+#   - Field values: modelUsage inner keys (inputTokens, outputTokens, costUSD),
+#     init.tools / permissionMode / claude_code_version, the error subtype
+#     "error_during_execution" on rate-limited and billing runs, result texts,
+#     api_retry.attempt, and every number.
+
+[fixtures]
+"auth_status_claude_ai.json" = "Pro login: the only auth method the runner accepts."
+"auth_status_api_key.json" = "API-key login: the runner refuses to start."
+"version.txt" = "CLI version line."
+"success.json" = "Valid structured_output, modelUsage = the arm's model only."
+"success_result_only.json" = "Same run printed as a bare result object (no init message)."
+"success_without_output.json" = "subtype success but structured_output absent: a failed run."
+"invalid_output.json" = "structured_output missing `tier`: fails schema validation, a failed run."
+"retries_error.json" = "subtype error_max_structured_output_retries: a failed run."
+"model_switch.json" = "Valid output but modelUsage has a second (fallback) model key."
+"rate_limit_stop.json" = "rate_limit_event status rejected with resetsAt: batch stops."
+"billing_stop.json" = "rate_limit_event errorCode credits_required: batch stops."
+"billing_error_retry.json" = "system/api_retry error billing_error: batch stops."
+
+# RECORDED (2026-10-26, Claude Code 2.1.302, Pro login, Windows 10):
+#   real_sonnet_with_haiku_helper.json: `claude -p "Reply with the single word ok."
+#   --model claude-sonnet-5-5 --output-format json --max-turns 1 --no-session-persistence`.
+#   Shows that modelUsage carries a small Claude Code background call on claude-haiku-5-5
+#   (1174 in / 14 out, no cache tokens) next to the answering model, whose cache tokens
+#   equal the top-level `usage`. So modelUsage keys alone cannot detect a model switch.
+#   real_haiku_verbose_with_limits.json: same flags plus --verbose, on claude-haiku-5-5,
+#   2026-10-27. Confirms `--output-format json --verbose` prints a JSON array
+#   (system/init, assistant, rate_limit_event, result) and that rate_limit_event carries
+#   unifiedWindows.{five_hour,seven_day}.utilization (0..1, two decimals) plus
+#   overageStatus / overageDisabledReason / isUsingOverage.

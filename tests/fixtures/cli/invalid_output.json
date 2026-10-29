@@ -1,0 +1,55 @@
+[
+  {
+    "type": "system",
+    "subtype": "init",
+    "session_id": "sess-1",
+    "model": "claude-haiku-5-5",
+    "tools": [
+      "StructuredOutput"
+    ],
+    "permissionMode": "default",
+    "claude_code_version": "2.1.302"
+  },
+  {
+    "type": "result",
+    "subtype": "success",
+    "is_error": false,
+    "duration_ms": 4210,
+    "duration_api_ms": 3980,
+    "num_turns": 2,
+    "result": "",
+    "session_id": "sess-1",
+    "total_cost_usd": 0.0123,
+    "usage": {
+      "input_tokens": 5120,
+      "output_tokens": 310,
+      "cache_read_input_tokens": 0
+    },
+    "modelUsage": {
+      "claude-haiku-5-5": {
+        "inputTokens": 5120,
+        "outputTokens": 310,
+        "costUSD": 0.0123
+      }
+    },
+    "permission_denials": [],
+    "stop_reason": "end_turn",
+    "structured_output": {
+      "signal": true,
+      "signal_type": "sdr_bdr_hiring",
+      "evidence": [
+        "We are building our first outbound team."
+      ],
+      "factors": {
+        "recency": 5,
+        "directness": 4,
+        "frequency": 2,
+        "specificity": 3,
+        "source": 4
+      },
+      "total": 38,
+      "recency_band": "High",
+      "action": "Prioritize this week"
+    }
+  }
+]

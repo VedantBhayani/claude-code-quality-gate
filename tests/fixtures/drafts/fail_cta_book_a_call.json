@@ -1,0 +1,13 @@
+{
+  "draft_id": "fail_cta_book_a_call",
+  "subject": "your new sdr team",
+  "body": "Hi Sam,\n\nSaw you are hiring a Senior SDR to build your first outbound team in Austin.\n\nMost new SDR teams spend their first few months figuring out which accounts are really worth calling. We track the companies that are hiring for sales right now, so your reps can start every week with a short list of warm accounts.\n\nCould we book a call this week to walk you through the list?\n\nAlex",
+  "role_title": "Senior SDR",
+  "evidence": [
+    "We are building our first outbound SDR team in Austin."
+  ],
+  "expected_fails": [
+    "cta"
+  ],
+  "expected_warns": []
+}

@@ -1,0 +1,2137 @@
+{
+  "populations": {
+    "natural sample": {
+      "post_ids": [
+        "greenhouse:lighthouse:4164128101",
+        "ashby:reonic:79d56c30-6b6f-4f1d-9370-2873e2db8b9b",
+        "ashby:wonderful:e10595c8-2e68-40e5-8c26-68bcecada2d5",
+        "ashby:incident:98029f7e-a460-4785-bc95-6cc813ff8d4b",
+        "lever:tryjeeves:ddadb39f-ae76-47ad-8cd7-e32610944501",
+        "ashby:deepgram:a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3",
+        "ashby:assorthealth:0155cbaa-d5a7-408d-81b3-0044d038163f",
+        "lever:tryjeeves:2355dcd1-0b09-4b7b-9382-32293ecaee1a",
+        "ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e",
+        "ashby:fonoa:40adfc17-f917-479f-80f6-f066a2925311",
+        "ashby:fonoa:9f1bb8ae-5d46-4797-8869-c8fbce0b0c71",
+        "ashby:1mind:5698f028-00c9-4ff0-93e8-20dc97af2980",
+        "greenhouse:observeai:5107653008",
+        "lever:tryjeeves:35648937-b286-4474-8504-c286f0eb7195",
+        "ashby:wonderful:2956ec4b-731f-400d-b66b-0677a2642429",
+        "ashby:constructor:7c513040-14cb-415b-8f77-dc07965177b7",
+        "ashby:attio:acbedaad-aa1e-4c9f-bce2-cca372cd2751",
+        "ashby:firecrawl:4d095906-803f-4987-a5a4-941e3f1a1600",
+        "ashby:eye-security:c2d9e61b-a4d0-45df-947d-0590095eeddc",
+        "ashby:lovable:58a2e1f6-0448-4310-931e-f3c5496149f5",
+        "greenhouse:connecteam:6228416004",
+        "greenhouse:lighthouse:4999659101",
+        "lever:tryjeeves:39ad6551-befe-4d02-b489-092e2707e1b6",
+        "greenhouse:guidewheel:5480895004",
+        "greenhouse:cognism:4879404101",
+        "ashby:coderabbit:f2f52f77-d634-4ac5-a19b-5f6e6084dacb",
+        "greenhouse:pallet:5246234007",
+        "lever:tryjeeves:c14be6e3-60fb-4a94-8943-54d4277a3ed9",
+        "greenhouse:reachdesk:5008332101",
+        "ashby:dataguard:c917730d-b0ea-4682-8ff7-f47d867270e4",
+        "ashby:vendelux:7bc76ec3-af2d-4573-9195-688e7e7309c1",
+        "ashby:companycam:f06dd43d-f2d7-41e9-b064-3c004f29f703",
+        "ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119",
+        "ashby:xapien:17136ac2-7eb0-49ed-930d-7be500b0d43b",
+        "ashby:tandem-health:86588d43-6c32-435e-9c5c-00174a203f9a",
+        "ashby:1mind:767ce69b-490d-4b43-a558-a551dda4c0a7",
+        "ashby:wonderful:f68928af-787b-4c0f-a250-1c4cbcffa40b",
+        "ashby:companycam:ebc3472b-6ae8-49a6-b0cd-ed65eb82cfec",
+        "ashby:sanity:05920588-9b6e-4d13-b527-89fe5ade9847",
+        "ashby:cubesoftware:ee1233f6-735b-4e94-a28e-c1952ba60d03",
+        "ashby:wonderful:ed8db73e-3455-4e96-9c90-954ed81e33a6",
+        "ashby:reonic:7577392a-b5f9-49e7-b3f4-0ab93dae650b",
+        "ashby:tenex:23837997-3f17-4e43-8909-d4aca2153838",
+        "ashby:attio:640e15b6-8d1a-48e3-8180-00c64574a858",
+        "ashby:attio:d3f7d63a-2646-449e-b244-cd74e270fb5c",
+        "ashby:dataguard:6e7e923d-12c8-46cb-9e91-07ea4aecefa7",
+        "lever:hevodata:cfdb183c-e9f4-4877-8b8c-bd7a3b4a7fde",
+        "ashby:tandem-health:d17b8a46-53dc-4283-a1be-dd7d190b9d8a",
+        "ashby:beaconsoftware:e227ff26-9db3-4640-a0f3-c5386fcfd381",
+        "ashby:coderabbit:f9d10281-f7c2-47aa-82cf-dbb0dfc005dd",
+        "ashby:wonderful:9756a75d-d572-448a-837b-b9487de5e4e6",
+        "ashby:flowengineering:cd5265d9-0dd8-4f14-a480-f40d958705fb",
+        "ashby:vendelux:a60ca9f8-0627-420e-945a-1e2de1c8734a",
+        "lever:captivateiq:a150b900-c709-49e6-a274-5158eaa6ca63",
+        "ashby:perryweather:ad5df8f9-5c6b-4e9e-bb6c-f223ff6ab67e",
+        "ashby:coderabbit:925cd885-d9c4-41e0-98db-04f87573d9dd",
+        "ashby:deepgram:c22e34a4-018a-4123-a752-31ed64c320c8",
+        "ashby:tandem-health:43d964cf-f381-4ac5-94fa-2c548498428b",
+        "greenhouse:cloudsek:5741180004",
+        "greenhouse:shopmonkey:7985702003",
+        "ashby:taktile:0985037e-8487-4031-a335-c4cf1085b96e",
+        "ashby:coderabbit:3336c1fe-cef0-44e9-ba34-5ca1c563b6c3",
+        "ashby:tandem-health:1673daaa-e345-4323-a322-c5532c696a83",
+        "ashby:tandem-health:b566e351-b477-4627-be0f-8c101df078d9",
+        "greenhouse:marqvision:4520609008",
+        "ashby:artisan:77f1e47e-61d0-4245-bc99-02bb189ce392",
+        "ashby:confido:c61f8645-a090-44ec-ba0e-661f10c66033",
+        "ashby:sanity:c790553f-2f0f-45c7-8e7d-2feb87563e70",
+        "ashby:vertice:6df9fec1-5c3d-4caf-9145-7779a102958b",
+        "ashby:flowengineering:1868c3cb-46a3-4dfb-8672-25500fbd2f0f",
+        "lever:lodgify:f96b593c-bfaf-493d-be1f-ba288648bdf8",
+        "ashby:bland:dc26ae53-bd0f-4e58-9e01-dea3777c0830",
+        "ashby:sanity:0783f256-e7eb-450f-84e5-88e4faec1a8e",
+        "ashby:coderabbit:a173742a-4d46-492a-a6b4-7fb1bcb282ca",
+        "ashby:levelpath:48a9101f-154f-4497-8b0d-1d929353c6f7",
+        "ashby:vendelux:51060e70-da86-4b08-a4c3-08bdfb0eff79",
+        "ashby:eye-security:8ef819d6-12c4-419d-9b61-bd85dcbc4791",
+        "lever:tryjeeves:12be7f07-4abf-4638-ad7f-8de0ec599137",
+        "ashby:coderabbit:b3d586f1-3041-4838-9709-6c7d69949cb5",
+        "ashby:brellium:7b2acc89-00d3-4df6-b6e0-0c404aedbf67",
+        "ashby:sitemate:4d540a55-44e5-4742-9c19-d439968e15e0",
+        "ashby:flowengineering:6b8ef7f1-f465-4b61-991f-31eda6e9e5d1",
+        "ashby:wonderful:b1c7c5d1-59ae-4d28-bccd-bb4761290b12",
+        "ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e",
+        "ashby:tenex:82a7052c-4f31-428e-b4ad-13971bca12fe",
+        "greenhouse:cognism:4980533101",
+        "greenhouse:pallet:5186143007",
+        "ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a",
+        "lever:vivenu:c2740db4-0841-481d-8984-601c24aba8d7",
+        "ashby:rundoo:d1d41d5e-51c5-4099-a99d-22c0e3273c30",
+        "ashby:amenitiz:fbb27872-9cab-420f-8b0c-f17630737ca7",
+        "ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23",
+        "ashby:sanity:5a3194e7-ca90-4780-93d5-20fb3106ae1a",
+        "greenhouse:pallet:5186147007",
+        "greenhouse:obsidiansecurity:4864479008",
+        "ashby:amenitiz:ad89923d-e163-4e9b-b7cb-f0149fc7894a",
+        "ashby:frontify:078e42b4-5db3-43de-bf09-3447e26ca136",
+        "ashby:amenitiz:5399c1de-4440-4390-bbbb-680c81b82738",
+        "ashby:deepgram:75ea6241-dbf0-42f2-a271-20d5d141316b",
+        "ashby:lovable:129316bb-b02c-4177-8d8a-5184e3de6070",
+        "ashby:vertice:3add241e-7323-4fff-ae9b-c4d162474462",
+        "ashby:upguard:efbe62f9-36fb-484b-8ad3-980b67fd1664",
+        "greenhouse:lighthouse:4989796101",
+        "greenhouse:ketryx:4251521008",
+        "greenhouse:pallet:5255106007",
+        "greenhouse:thatch:5411671008",
+        "lever:tryjeeves:a05c4251-4685-44e7-8096-bcb0bb7a3667",
+        "ashby:tandem-health:edd49e2a-82c8-416d-b956-68b7396e607f",
+        "ashby:ambrook:613836d3-10e3-470f-bf05-9394615cfffc",
+        "ashby:confido:98553126-7cb7-4f10-97c6-160ca3d83916",
+        "ashby:amenitiz:55f42637-8374-4926-9bc8-44580d1d9a1a",
+        "ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3",
+        "ashby:wonderful:e425e49a-23d5-4e61-90a2-02f6abf494b2",
+        "lever:tryjeeves:173505ac-37ae-4818-a807-733599537072",
+        "ashby:assorthealth:1128f3b5-1ff6-4b85-849d-6552b430ea88",
+        "ashby:anrok:c7c202e0-77c3-4195-b769-821c1cf3f7f9",
+        "lever:tryjeeves:4d865102-80f9-4552-9490-56de8b1e7586",
+        "greenhouse:levanta:5436993008",
+        "greenhouse:reachdesk:4967738101",
+        "ashby:vertice:25840d28-2a84-478b-8588-cb065a1eee7f",
+        "ashby:incident:9310b907-e008-4d7d-a898-e82db447d97f",
+        "ashby:tandem-health:3d6c01f3-ff93-4b76-808a-bb267dc07bcc",
+        "ashby:amenitiz:23afc717-5dd1-4c3c-b1e4-1c84e520545b",
+        "ashby:tandem-health:d394b749-c2c5-4fd8-b135-411a9339d3db",
+        "ashby:reonic:17c5bc63-5eba-4e2c-a402-ed2e9710f72b",
+        "ashby:flaglerhealth:68a57fc6-e65e-4c38-ba07-391de629a029",
+        "ashby:netboxlabs:d5fb8ed9-cd3b-415e-a0ab-c0cc7d13f00e",
+        "greenhouse:awardco:5995653004",
+        "ashby:wonderful:6de1b138-c3a9-46f6-90b0-f86a455a2165",
+        "ashby:vendelux:9e83e3ed-0fb9-4d9d-8b42-72811688ea27",
+        "greenhouse:reachdesk:4896733101",
+        "ashby:tenex:b36d75bc-5deb-4327-94b7-c4899b8449bc",
+        "greenhouse:flipdish:4932012101",
+        "ashby:granola:76f9896f-f241-403d-9be3-e14f337e11cd",
+        "lever:tryjeeves:944be260-28fd-4099-a39e-f852b183f62a",
+        "greenhouse:flipdish:4971742101",
+        "ashby:stackone:dde45ada-b5ce-47ba-ad03-d9905209f90d",
+        "ashby:wonderful:5d9886f1-79e3-4d6d-be53-ece9c104f28e",
+        "greenhouse:obsidiansecurity:5022752008",
+        "ashby:rillet:08d24b43-28bc-482b-8a5a-642fa1d99a21",
+        "ashby:rillet:49a57e41-d3c5-4417-8d22-c96806a8301b",
+        "ashby:deepgram:c8799e26-121b-47be-8bc4-7b342fa32275",
+        "ashby:dataguard:d616f5b3-e2c2-4a30-9ccb-33d668cc7667",
+        "ashby:upguard:8d1a9181-2197-4df4-a585-bc3600c9a0bb",
+        "greenhouse:buynomics:4742427101",
+        "ashby:tandem-health:e1ea7f4b-09fa-4a7b-afc2-a8ba9fb3f3c0",
+        "lever:tryjeeves:5869be30-7253-4f95-8c68-5a8ee0a3846b",
+        "greenhouse:ketryx:4646791008",
+        "ashby:tandem-health:87d807b8-af21-47a3-89da-e31704c09607",
+        "greenhouse:buynomics:4277669101",
+        "ashby:abacum:89a88419-a66d-46f8-a1fe-f6f6b5da4eea",
+        "ashby:amenitiz:d099d3a1-0d59-4189-93e8-28fd0c0adba7",
+        "greenhouse:dscout:4386469009",
+        "ashby:wonderful:eb417a28-b1df-4321-9a9f-08da186503c5",
+        "ashby:herondata:d129e651-53d2-421d-a862-a0d6ca9498c1",
+        "ashby:wonderful:085161d7-1bd9-409d-aeec-8b441019bad7",
+        "greenhouse:connecteam:6161213004",
+        "lever:vivenu:7b3f3985-7bad-4f46-bead-7085e4c41b1f",
+        "ashby:confido:a0508501-1db6-4497-b4e4-6aeb69976403",
+        "greenhouse:obsidiansecurity:4993906008",
+        "greenhouse:emnify:4517996101",
+        "ashby:wonderful:7c454034-b30a-4c6f-b993-1f8e07c242c4",
+        "lever:hevodata:c980e017-70b5-44ad-aa84-ab0664ade0de",
+        "ashby:xapien:eff0678e-05ca-4635-af20-8a72ae16b43c",
+        "ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0",
+        "ashby:goodstack:36dfcc33-1f86-4b48-a7ae-a7183ce65f36",
+        "ashby:amenitiz:1a3a54f7-b231-4e31-acb0-8160c95ee9b4",
+        "ashby:tandem-health:3cd3a46c-19b5-4929-bf58-9f1974471905",
+        "greenhouse:lighthouse:4988252101",
+        "ashby:sanity:29d2b4fb-a14d-4769-b984-54b275d2efda",
+        "greenhouse:thatch:5283126008",
+        "ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7",
+        "ashby:tacto:4ec74d1d-fa8e-4bd7-86ac-08b232b9c768",
+        "ashby:reonic:07d1aaa8-0efb-4083-81f5-2f2dbd918b95",
+        "ashby:attio:01869e97-176e-4f53-a701-86d6c69ef0ea",
+        "ashby:netboxlabs:3e17592e-455e-430c-aa5b-cb101da69a35",
+        "lever:hevodata:20a999d9-db54-4534-814a-fe69d01abc16",
+        "ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6",
+        "ashby:abacum:9a19ab84-f8cc-4d9c-9029-c54e30f46a6b",
+        "ashby:incident:1556e90c-1c75-494b-97d3-b471ae95fa6f",
+        "greenhouse:buynomics:4967072101",
+        "ashby:sanity:6997bf48-5318-467e-bdd7-0440d25610a0",
+        "lever:tryjeeves:0b2fa994-6b9d-4535-90a5-e09d230f2575",
+        "ashby:beaconsoftware:68a571b4-be2e-4b2a-8e18-88b7564f314e",
+        "ashby:amenitiz:4d5295db-eb45-4849-b502-c4e9286e38fc",
+        "ashby:deepgram:02b34c52-9d44-415d-affe-80f4bb016f90",
+        "greenhouse:orcasecurity:6163311004",
+        "ashby:tracksuit:e10782ad-05be-475a-92f5-8884ddeb99b4",
+        "ashby:flaglerhealth:8045a169-3107-4d67-b764-4f12eda427bb",
+        "ashby:tacto:28611a3e-a728-4e69-83b7-e985a9594854",
+        "greenhouse:coherehealth:8016709003",
+        "ashby:coderabbit:ae58011d-0401-45ad-bdb5-eab70f59b37f",
+        "ashby:flaglerhealth:fcf6beb9-4c78-4c26-b6c0-4740b22ef67d",
+        "ashby:tandem-health:f6abb199-3d50-44f9-9b2e-104d7c13a569",
+        "greenhouse:lighthouse:4999354101",
+        "greenhouse:thatch:5447384008",
+        "greenhouse:lighthouse:4964259101",
+        "ashby:tandem-health:0a0c5861-de2a-419c-ae81-81a62c3a4d00",
+        "greenhouse:lighthouse:4790612101",
+        "ashby:coderabbit:4fcfb7bd-6089-4335-8099-de493f607876"
+      ],
+      "arms": {
+        "haiku-5-5": {
+          "model": "claude-haiku-5-5",
+          "repeats": {
+            "1": {
+              "runs": 200,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7653333333333334,
+              "macro_f1_type": 0.7316069047571571
+            },
+            "2": {
+              "runs": 200,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6927803379416283,
+              "macro_f1_type": 0.717473420561723
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 13,
+              "n": 200,
+              "rate": 0.065,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 17,
+              "n": 200,
+              "rate": 0.085,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 7.2553
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 97,
+            "score": 3,
+            "recency": 2,
+            "tier": 0,
+            "label_signal": 27,
+            "label_type": 41
+          }
+        },
+        "sonnet-5-5": {
+          "model": "claude-sonnet-5-5",
+          "repeats": {
+            "1": {
+              "runs": 200,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5501893939393939,
+              "macro_f1_type": 0.6547432452604867
+            },
+            "2": {
+              "runs": 200,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5843776106934002,
+              "macro_f1_type": 0.6797598419212646
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 34,
+              "n": 199,
+              "rate": 0.1708542713567839,
+              "failures": {
+                "run 1": 0,
+                "run 2": 1
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 35,
+              "n": 199,
+              "rate": 0.17587939698492464,
+              "failures": {
+                "run 1": 0,
+                "run 2": 1
+              }
+            },
+            "macro_f1_signal_points": 3.418822
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 97,
+            "score": 65,
+            "recency": 14,
+            "tier": 15,
+            "label_signal": 78,
+            "label_type": 89
+          }
+        },
+        "opus-5-5": {
+          "model": "claude-opus-5-5",
+          "repeats": {
+            "1": {
+              "runs": 50,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8226950354609929,
+              "macro_f1_type": 0.8643781094527363
+            }
+          },
+          "repeat_noise": null,
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 4,
+            "score": 0,
+            "recency": 0,
+            "tier": 0,
+            "label_signal": 2,
+            "label_type": 4
+          }
+        },
+        "haiku-4-5": {
+          "model": "claude-haiku-4-5-20251001",
+          "repeats": {
+            "1": {
+              "runs": 200,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5926900584795322,
+              "macro_f1_type": 0.6186325035890697
+            },
+            "2": {
+              "runs": 200,
+              "failed_runs": 3,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5589021307331167,
+              "macro_f1_type": 0.5556776342772085
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 29,
+              "n": 196,
+              "rate": 0.14795918367346939,
+              "failures": {
+                "run 1": 1,
+                "run 2": 3
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 53,
+              "n": 196,
+              "rate": 0.27040816326530615,
+              "failures": {
+                "run 1": 1,
+                "run 2": 3
+              }
+            },
+            "macro_f1_signal_points": 3.378793
+          },
+          "check_failures": {
+            "structured_output": 1,
+            "evidence": 140,
+            "score": 23,
+            "recency": 15,
+            "tier": 29,
+            "label_signal": 59,
+            "label_type": 107
+          }
+        }
+      },
+      "comparisons": [
+        {
+          "baseline": "sonnet-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 200,
+          "macro_f1_signal": {
+            "baseline": 0.5501893939393939,
+            "candidate": 0.7653333333333334
+          },
+          "macro_f1_type": {
+            "baseline": 0.6547432452604867,
+            "candidate": 0.7316069047571571
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 29,
+            "n": 200,
+            "rate": 0.145,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 36,
+            "n": 200,
+            "rate": 0.18,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 14.5106,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 3.4, haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 22.085427,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 17.1, haiku-5-5 6.5; largest is sonnet-5-5. Threshold = 17.1 + 5 = 22.1 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.550 -> 0.765: drop of -21.5 points within the 14.5-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 3.4, haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-sonnet-5-5 vs claude-haiku-5-5): 29/200 labels changed = 14.5%; failures excluded: claude-sonnet-5-5 0, claude-haiku-5-5 0; within the 22.1-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 17.1, haiku-5-5 6.5; largest is sonnet-5-5. Threshold = 17.1 + 5 = 22.1 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        },
+        {
+          "baseline": "haiku-4-5",
+          "candidate": "haiku-5-5",
+          "kind": "model upgrade",
+          "post_count": 200,
+          "macro_f1_signal": {
+            "baseline": 0.5926900584795322,
+            "candidate": 0.7653333333333334
+          },
+          "macro_f1_type": {
+            "baseline": 0.6186325035890697,
+            "candidate": 0.7316069047571571
+          },
+          "flip_rate_signal": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 27,
+            "n": 199,
+            "rate": 0.135678391959799,
+            "failures": {
+              "claude-haiku-4-5-20251001": 1,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 43,
+            "n": 199,
+            "rate": 0.21608040201005024,
+            "failures": {
+              "claude-haiku-4-5-20251001": 1,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 14.5106,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 3.4, haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 19.795918,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 14.8, haiku-5-5 6.5; largest is haiku-4-5. Threshold = 14.8 + 5 = 19.8 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.593 -> 0.765: drop of -17.3 points within the 14.5-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 3.4, haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model upgrade (claude-haiku-4-5-20251001 vs claude-haiku-5-5): 27/199 labels changed = 13.6%; failures excluded: claude-haiku-4-5-20251001 1, claude-haiku-5-5 0; within the 19.8-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 14.8, haiku-5-5 6.5; largest is haiku-4-5. Threshold = 14.8 + 5 = 19.8 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        },
+        {
+          "baseline": "opus-5-5",
+          "candidate": "sonnet-5-5",
+          "kind": "model switch",
+          "post_count": 50,
+          "macro_f1_signal": {
+            "baseline": 0.8226950354609929,
+            "candidate": 0.5265151515151515
+          },
+          "macro_f1_type": {
+            "baseline": 0.8643781094527363,
+            "candidate": 0.6990221455277539
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-sonnet-5-5"
+            ],
+            "changed": 8,
+            "n": 50,
+            "rate": 0.16,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-sonnet-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-sonnet-5-5"
+            ],
+            "changed": 9,
+            "n": 50,
+            "rate": 0.18,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-sonnet-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 6.837644,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 3.4; largest is sonnet-5-5. Threshold = max(2 x 3.4, 3) = 6.8 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 22.085427,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 17.1; largest is sonnet-5-5. Threshold = 17.1 + 5 = 22.1 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": false,
+              "reason": "macro-F1 0.823 -> 0.527: drop of 29.6 points exceeds the 6.8-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 3.4; largest is sonnet-5-5. Threshold = max(2 x 3.4, 3) = 6.8 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-opus-5-5 vs claude-sonnet-5-5): 8/50 labels changed = 16.0%; failures excluded: claude-opus-5-5 0, claude-sonnet-5-5 0; within the 22.1-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 17.1; largest is sonnet-5-5. Threshold = 17.1 + 5 = 22.1 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": false
+        },
+        {
+          "baseline": "opus-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 50,
+          "macro_f1_signal": {
+            "baseline": 0.8226950354609929,
+            "candidate": 0.9231950844854071
+          },
+          "macro_f1_type": {
+            "baseline": 0.8643781094527363,
+            "candidate": 0.8269967532467533
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 1,
+            "n": 50,
+            "rate": 0.02,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 5,
+            "n": 50,
+            "rate": 0.1,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 14.5106,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 11.5,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-5-5 6.5; largest is haiku-5-5. Threshold = 6.5 + 5 = 11.5 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.823 -> 0.923: drop of -10.1 points within the 14.5-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-5-5 7.3; largest is haiku-5-5. Threshold = max(2 x 7.3, 3) = 14.5 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-opus-5-5 vs claude-haiku-5-5): 1/50 labels changed = 2.0%; failures excluded: claude-opus-5-5 0, claude-haiku-5-5 0; within the 11.5-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-5-5 6.5; largest is haiku-5-5. Threshold = 6.5 + 5 = 11.5 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        }
+      ]
+    },
+    "ambiguous subset": {
+      "post_ids": [
+        "ashby:levelpath:8a79546b-7530-43e0-8ecf-af2c63ecab77",
+        "ashby:lovable:ac61dda2-bff0-4f22-adca-a48b0b2f560c",
+        "ashby:fonoa:50bb2196-a56a-4d41-bf96-6ea822874ee5",
+        "greenhouse:hiddenlayer:5244245007",
+        "ashby:spekit:e650c488-531a-4c98-a7e5-5d97c3915391",
+        "ashby:incident:dd585c05-9736-4ba3-a71a-838ba66deea5",
+        "greenhouse:orcasecurity:6161080004",
+        "ashby:tacto:dbb872a5-a598-4cf2-9d4d-e2eb3e2ffd6f",
+        "ashby:amenitiz:22cf7637-818e-4d3f-a029-f4335788ddaf",
+        "ashby:trm-labs:a64577e7-ee7e-4682-8630-a242d558128d",
+        "ashby:coderabbit:a5fad4ec-46d4-4e6a-8383-fde5f772bca1",
+        "ashby:trm-labs:0546e8a4-2617-4b0d-b5c7-b7e1c34a1efe",
+        "ashby:fonoa:8645ba92-564e-488d-9c9f-e48fe2b794e9",
+        "ashby:rillet:6754d55f-c307-420c-afbf-392ea2136a89",
+        "ashby:sitemate:59ad84a7-7964-47c6-96d0-1e1245008049",
+        "ashby:plentific:fccedd7c-f503-47b5-8707-6f434530b035",
+        "greenhouse:reachdesk:4923515101",
+        "ashby:lovable:3944f55e-910f-4248-ba28-2c1e6143eb28",
+        "greenhouse:orcasecurity:6222178004",
+        "ashby:strella:f5514bed-940e-4f43-b28d-534be7870c91",
+        "ashby:attio:eef50b66-c092-4018-bff5-08b81889a4f4",
+        "greenhouse:obsidiansecurity:4801720008",
+        "ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e",
+        "ashby:amenitiz:138a19d8-4621-4c43-8c80-eced02f54578",
+        "ashby:deepgram:d9d5aa44-b675-46e9-b596-45c1c5dca858",
+        "greenhouse:awardco:4002457004",
+        "greenhouse:testlio:8121637",
+        "ashby:tandem-health:50e78116-7b2c-4fa7-a299-bd24cfe69db3",
+        "ashby:deepgram:f904ff60-f5d1-45c7-8fa2-8456c47b4204",
+        "ashby:plentific:30a7deba-7d52-4233-bc4f-594c031e2c1f",
+        "ashby:bland:a21585d3-b6ce-47bf-af44-f384d40315a3",
+        "ashby:pearlhealth:5d5e3036-a776-4e13-8041-d28faa86a106",
+        "ashby:incident:3273dd8c-b333-4cf1-859a-431fba8e7f17",
+        "greenhouse:orcasecurity:6186235004",
+        "ashby:lovable:4f26af7a-43ad-48f4-9902-1e779c05af66",
+        "ashby:taktile:f6d97bef-99d0-43b7-9ce4-94e00fe05744",
+        "lever:vivenu:b67fcf07-71b8-408d-afe9-1ef24fb4f843",
+        "ashby:sanity:4f892238-04a5-442e-ab36-7f1f60010abf",
+        "ashby:attio:72c41b8f-7a33-4285-8204-fff00ca4b9c8",
+        "ashby:anrok:4b429b09-18d0-4438-b31b-d022677d8702",
+        "lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3",
+        "ashby:netboxlabs:6db20463-5f41-4aaa-8118-081c76e4f01f",
+        "ashby:levelpath:5d5d69c5-7977-4c74-9ba3-e26be06be081",
+        "lever:tryjeeves:60e6aef8-ada6-40b9-855f-38fda88ab60e",
+        "ashby:dotfile:b51f6139-e873-46f5-a868-8b40d375647c",
+        "lever:zilliz:4293390a-f3e0-4b91-9b63-a1526f620983",
+        "greenhouse:gradial:4403556009",
+        "lever:ethena:f2e45009-809f-4ff1-bb03-b230e770bb91",
+        "lever:tryjeeves:f119bb97-f7a7-4d8d-8e9f-55b376ca393f",
+        "greenhouse:connecteam:6220870004",
+        "greenhouse:togetherai:5171124007",
+        "greenhouse:pallet:5157801007",
+        "lever:supermove:0f318ca9-3c7b-4350-ab02-21ab44fa4b17",
+        "ashby:incident:d4381152-47cd-46fb-a760-03937f552ebb",
+        "ashby:rillet:e484c722-2839-46b6-b0b7-fb1a463cd95f",
+        "greenhouse:hiddenlayer:5162392007",
+        "ashby:netboxlabs:58400b30-dccb-4b10-aa64-cb01ca805494",
+        "ashby:reonic:3dc11a41-dc6a-43f4-9216-2fd7d3be3623",
+        "lever:vivenu:8d91cd5d-25d5-4878-aafe-268e593152dc",
+        "ashby:numeral:9daa0f11-e625-4e35-9fc9-6b555f4e7d5f",
+        "lever:vivenu:06099ee7-9d31-4d7a-b6aa-0d8abe23f6e0",
+        "ashby:deepgram:faef2c32-5084-48ca-8fff-e86d653f2697",
+        "ashby:incident:4e08c20c-cdea-4769-94b3-4060b5301cd6",
+        "ashby:flowengineering:d6d06674-e195-4a3b-a534-5787f8fb0d92",
+        "ashby:constructor:607c2cd0-0e84-4a8d-b8a5-9dd14bc017d8",
+        "ashby:assorthealth:d6d278ab-fc77-46f5-b5df-cc4b5036413d",
+        "ashby:rillet:9726a594-29a0-445d-8950-7f99ceb0931d",
+        "greenhouse:togetherai:4627491007",
+        "lever:vivenu:bd4edbab-61f5-4726-9e90-887a9b7311b6",
+        "ashby:eye-security:21a8c845-7f1b-48d9-8f8f-e8e59a2dcfcc",
+        "lever:netomi:60221dc9-aee2-469b-960b-1844b0c82d01",
+        "greenhouse:thatch:5266458008",
+        "greenhouse:levanta:5421875008",
+        "ashby:flaglerhealth:eeca0f24-5c4f-4afd-bc17-8027a3c2a8ee",
+        "ashby:abacum:8fdce4e8-0219-40a0-9475-e95e4d3c47e8",
+        "ashby:incident:b4a5d057-602c-40f7-90e3-f8322e1f2b0b",
+        "lever:tryjeeves:2165b262-6b74-4122-bc4f-7fee7e1bd0bf",
+        "ashby:companycam:9c8921a4-88a3-4240-a6ff-12d1cafac919",
+        "lever:portcast:e5b90ced-6e65-46c6-b0c9-7b138c50b54c",
+        "ashby:deepgram:be9609b4-b48d-4421-90e5-69049ad0d6ce"
+      ],
+      "arms": {
+        "haiku-5-5": {
+          "model": "claude-haiku-5-5",
+          "repeats": {
+            "1": {
+              "runs": 80,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8046875,
+              "macro_f1_type": 0.603422619047619
+            },
+            "2": {
+              "runs": 80,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8358974358974358,
+              "macro_f1_type": 0.5802973497091144
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 8,
+              "n": 80,
+              "rate": 0.1,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 8,
+              "n": 80,
+              "rate": 0.1,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 3.120994
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 5,
+            "score": 6,
+            "recency": 1,
+            "tier": 0,
+            "label_signal": 18,
+            "label_type": 20
+          }
+        },
+        "sonnet-5-5": {
+          "model": "claude-sonnet-5-5",
+          "repeats": {
+            "1": {
+              "runs": 80,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8358974358974358,
+              "macro_f1_type": 0.6350607287449392
+            },
+            "2": {
+              "runs": 80,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.9081515499425947,
+              "macro_f1_type": 0.6854584221748401
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 6,
+              "n": 80,
+              "rate": 0.075,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 6,
+              "n": 80,
+              "rate": 0.075,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 7.225411
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 5,
+            "score": 34,
+            "recency": 5,
+            "tier": 17,
+            "label_signal": 12,
+            "label_type": 12
+          }
+        },
+        "haiku-4-5": {
+          "model": "claude-haiku-4-5-20251001",
+          "repeats": {
+            "1": {
+              "runs": 80,
+              "failed_runs": 2,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6408408408408408,
+              "macro_f1_type": 0.43546258332636045
+            },
+            "2": {
+              "runs": 80,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6319875776397516,
+              "macro_f1_type": 0.38954142112036844
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 28,
+              "n": 77,
+              "rate": 0.36363636363636365,
+              "failures": {
+                "run 1": 2,
+                "run 2": 1
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 36,
+              "n": 77,
+              "rate": 0.4675324675324675,
+              "failures": {
+                "run 1": 2,
+                "run 2": 1
+              }
+            },
+            "macro_f1_signal_points": 0.885326
+          },
+          "check_failures": {
+            "structured_output": 1,
+            "evidence": 54,
+            "score": 15,
+            "recency": 16,
+            "tier": 27,
+            "label_signal": 48,
+            "label_type": 52
+          }
+        }
+      },
+      "comparisons": [
+        {
+          "baseline": "sonnet-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 80,
+          "macro_f1_signal": {
+            "baseline": 0.8358974358974358,
+            "candidate": 0.8046875
+          },
+          "macro_f1_type": {
+            "baseline": 0.6350607287449392,
+            "candidate": 0.603422619047619
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 10,
+            "n": 80,
+            "rate": 0.125,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 12,
+            "n": 80,
+            "rate": 0.15,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 14.450822,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 7.2, haiku-5-5 3.1; largest is sonnet-5-5. Threshold = max(2 x 7.2, 3) = 14.5 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 15.0,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 7.5, haiku-5-5 10.0; largest is haiku-5-5. Threshold = 10.0 + 5 = 15.0 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.836 -> 0.805: drop of 3.1 points within the 14.5-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 7.2, haiku-5-5 3.1; largest is sonnet-5-5. Threshold = max(2 x 7.2, 3) = 14.5 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-sonnet-5-5 vs claude-haiku-5-5): 10/80 labels changed = 12.5%; failures excluded: claude-sonnet-5-5 0, claude-haiku-5-5 0; within the 15.0-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 7.5, haiku-5-5 10.0; largest is haiku-5-5. Threshold = 10.0 + 5 = 15.0 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        },
+        {
+          "baseline": "haiku-4-5",
+          "candidate": "haiku-5-5",
+          "kind": "model upgrade",
+          "post_count": 80,
+          "macro_f1_signal": {
+            "baseline": 0.6408408408408408,
+            "candidate": 0.8046875
+          },
+          "macro_f1_type": {
+            "baseline": 0.43546258332636045,
+            "candidate": 0.603422619047619
+          },
+          "flip_rate_signal": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 19,
+            "n": 78,
+            "rate": 0.24358974358974358,
+            "failures": {
+              "claude-haiku-4-5-20251001": 2,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 23,
+            "n": 78,
+            "rate": 0.2948717948717949,
+            "failures": {
+              "claude-haiku-4-5-20251001": 2,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 6.241988,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 0.9, haiku-5-5 3.1; largest is haiku-5-5. Threshold = max(2 x 3.1, 3) = 6.2 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 41.363636,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 36.4, haiku-5-5 10.0; largest is haiku-4-5. Threshold = 36.4 + 5 = 41.4 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.641 -> 0.805: drop of -16.4 points within the 6.2-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 0.9, haiku-5-5 3.1; largest is haiku-5-5. Threshold = max(2 x 3.1, 3) = 6.2 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model upgrade (claude-haiku-4-5-20251001 vs claude-haiku-5-5): 19/78 labels changed = 24.4%; failures excluded: claude-haiku-4-5-20251001 2, claude-haiku-5-5 0; within the 41.4-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 36.4, haiku-5-5 10.0; largest is haiku-4-5. Threshold = 36.4 + 5 = 41.4 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        }
+      ]
+    },
+    "natural sample, posted within 90 days": {
+      "post_ids": [
+        "ashby:incident:98029f7e-a460-4785-bc95-6cc813ff8d4b",
+        "lever:tryjeeves:2355dcd1-0b09-4b7b-9382-32293ecaee1a",
+        "ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e",
+        "ashby:1mind:5698f028-00c9-4ff0-93e8-20dc97af2980",
+        "lever:tryjeeves:35648937-b286-4474-8504-c286f0eb7195",
+        "ashby:attio:acbedaad-aa1e-4c9f-bce2-cca372cd2751",
+        "ashby:firecrawl:4d095906-803f-4987-a5a4-941e3f1a1600",
+        "ashby:eye-security:c2d9e61b-a4d0-45df-947d-0590095eeddc",
+        "ashby:lovable:58a2e1f6-0448-4310-931e-f3c5496149f5",
+        "greenhouse:connecteam:6228416004",
+        "greenhouse:lighthouse:4999659101",
+        "greenhouse:pallet:5246234007",
+        "greenhouse:reachdesk:5008332101",
+        "ashby:companycam:f06dd43d-f2d7-41e9-b064-3c004f29f703",
+        "ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119",
+        "ashby:xapien:17136ac2-7eb0-49ed-930d-7be500b0d43b",
+        "ashby:1mind:767ce69b-490d-4b43-a558-a551dda4c0a7",
+        "ashby:wonderful:f68928af-787b-4c0f-a250-1c4cbcffa40b",
+        "ashby:companycam:ebc3472b-6ae8-49a6-b0cd-ed65eb82cfec",
+        "ashby:sanity:05920588-9b6e-4d13-b527-89fe5ade9847",
+        "ashby:cubesoftware:ee1233f6-735b-4e94-a28e-c1952ba60d03",
+        "ashby:reonic:7577392a-b5f9-49e7-b3f4-0ab93dae650b",
+        "ashby:attio:640e15b6-8d1a-48e3-8180-00c64574a858",
+        "ashby:tandem-health:d17b8a46-53dc-4283-a1be-dd7d190b9d8a",
+        "ashby:beaconsoftware:e227ff26-9db3-4640-a0f3-c5386fcfd381",
+        "ashby:flowengineering:cd5265d9-0dd8-4f14-a480-f40d958705fb",
+        "lever:captivateiq:a150b900-c709-49e6-a274-5158eaa6ca63",
+        "ashby:perryweather:ad5df8f9-5c6b-4e9e-bb6c-f223ff6ab67e",
+        "ashby:coderabbit:925cd885-d9c4-41e0-98db-04f87573d9dd",
+        "ashby:deepgram:c22e34a4-018a-4123-a752-31ed64c320c8",
+        "greenhouse:shopmonkey:7985702003",
+        "ashby:coderabbit:3336c1fe-cef0-44e9-ba34-5ca1c563b6c3",
+        "ashby:tandem-health:1673daaa-e345-4323-a322-c5532c696a83",
+        "ashby:artisan:77f1e47e-61d0-4245-bc99-02bb189ce392",
+        "ashby:sanity:c790553f-2f0f-45c7-8e7d-2feb87563e70",
+        "ashby:flowengineering:1868c3cb-46a3-4dfb-8672-25500fbd2f0f",
+        "ashby:sanity:0783f256-e7eb-450f-84e5-88e4faec1a8e",
+        "ashby:levelpath:48a9101f-154f-4497-8b0d-1d929353c6f7",
+        "ashby:eye-security:8ef819d6-12c4-419d-9b61-bd85dcbc4791",
+        "ashby:brellium:7b2acc89-00d3-4df6-b6e0-0c404aedbf67",
+        "ashby:sitemate:4d540a55-44e5-4742-9c19-d439968e15e0",
+        "ashby:flowengineering:6b8ef7f1-f465-4b61-991f-31eda6e9e5d1",
+        "ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e",
+        "greenhouse:cognism:4980533101",
+        "ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a",
+        "lever:vivenu:c2740db4-0841-481d-8984-601c24aba8d7",
+        "ashby:amenitiz:fbb27872-9cab-420f-8b0c-f17630737ca7",
+        "ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23",
+        "greenhouse:pallet:5186147007",
+        "ashby:amenitiz:ad89923d-e163-4e9b-b7cb-f0149fc7894a",
+        "ashby:frontify:078e42b4-5db3-43de-bf09-3447e26ca136",
+        "ashby:amenitiz:5399c1de-4440-4390-bbbb-680c81b82738",
+        "ashby:deepgram:75ea6241-dbf0-42f2-a271-20d5d141316b",
+        "ashby:lovable:129316bb-b02c-4177-8d8a-5184e3de6070",
+        "ashby:vertice:3add241e-7323-4fff-ae9b-c4d162474462",
+        "ashby:upguard:efbe62f9-36fb-484b-8ad3-980b67fd1664",
+        "greenhouse:lighthouse:4989796101",
+        "greenhouse:pallet:5255106007",
+        "greenhouse:thatch:5411671008",
+        "lever:tryjeeves:a05c4251-4685-44e7-8096-bcb0bb7a3667",
+        "ashby:tandem-health:edd49e2a-82c8-416d-b956-68b7396e607f",
+        "ashby:ambrook:613836d3-10e3-470f-bf05-9394615cfffc",
+        "ashby:amenitiz:55f42637-8374-4926-9bc8-44580d1d9a1a",
+        "ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3",
+        "lever:tryjeeves:173505ac-37ae-4818-a807-733599537072",
+        "ashby:assorthealth:1128f3b5-1ff6-4b85-849d-6552b430ea88",
+        "ashby:anrok:c7c202e0-77c3-4195-b769-821c1cf3f7f9",
+        "greenhouse:levanta:5436993008",
+        "greenhouse:reachdesk:4967738101",
+        "ashby:vertice:25840d28-2a84-478b-8588-cb065a1eee7f",
+        "ashby:incident:9310b907-e008-4d7d-a898-e82db447d97f",
+        "ashby:amenitiz:23afc717-5dd1-4c3c-b1e4-1c84e520545b",
+        "ashby:tandem-health:d394b749-c2c5-4fd8-b135-411a9339d3db",
+        "ashby:reonic:17c5bc63-5eba-4e2c-a402-ed2e9710f72b",
+        "ashby:flaglerhealth:68a57fc6-e65e-4c38-ba07-391de629a029",
+        "ashby:netboxlabs:d5fb8ed9-cd3b-415e-a0ab-c0cc7d13f00e",
+        "ashby:tenex:b36d75bc-5deb-4327-94b7-c4899b8449bc",
+        "greenhouse:flipdish:4971742101",
+        "ashby:stackone:dde45ada-b5ce-47ba-ad03-d9905209f90d",
+        "ashby:wonderful:5d9886f1-79e3-4d6d-be53-ece9c104f28e",
+        "ashby:rillet:08d24b43-28bc-482b-8a5a-642fa1d99a21",
+        "ashby:rillet:49a57e41-d3c5-4417-8d22-c96806a8301b",
+        "ashby:deepgram:c8799e26-121b-47be-8bc4-7b342fa32275",
+        "ashby:upguard:8d1a9181-2197-4df4-a585-bc3600c9a0bb",
+        "ashby:tandem-health:e1ea7f4b-09fa-4a7b-afc2-a8ba9fb3f3c0",
+        "ashby:tandem-health:87d807b8-af21-47a3-89da-e31704c09607",
+        "ashby:abacum:89a88419-a66d-46f8-a1fe-f6f6b5da4eea",
+        "ashby:amenitiz:d099d3a1-0d59-4189-93e8-28fd0c0adba7",
+        "greenhouse:dscout:4386469009",
+        "ashby:herondata:d129e651-53d2-421d-a862-a0d6ca9498c1",
+        "ashby:wonderful:085161d7-1bd9-409d-aeec-8b441019bad7",
+        "greenhouse:connecteam:6161213004",
+        "ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0",
+        "ashby:goodstack:36dfcc33-1f86-4b48-a7ae-a7183ce65f36",
+        "ashby:amenitiz:1a3a54f7-b231-4e31-acb0-8160c95ee9b4",
+        "greenhouse:lighthouse:4988252101",
+        "ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7",
+        "ashby:tacto:4ec74d1d-fa8e-4bd7-86ac-08b232b9c768",
+        "ashby:netboxlabs:3e17592e-455e-430c-aa5b-cb101da69a35",
+        "ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6",
+        "ashby:abacum:9a19ab84-f8cc-4d9c-9029-c54e30f46a6b",
+        "greenhouse:buynomics:4967072101",
+        "ashby:sanity:6997bf48-5318-467e-bdd7-0440d25610a0",
+        "ashby:beaconsoftware:68a571b4-be2e-4b2a-8e18-88b7564f314e",
+        "ashby:amenitiz:4d5295db-eb45-4849-b502-c4e9286e38fc",
+        "greenhouse:orcasecurity:6163311004",
+        "ashby:tracksuit:e10782ad-05be-475a-92f5-8884ddeb99b4",
+        "ashby:flaglerhealth:8045a169-3107-4d67-b764-4f12eda427bb",
+        "greenhouse:coherehealth:8016709003",
+        "ashby:coderabbit:ae58011d-0401-45ad-bdb5-eab70f59b37f",
+        "ashby:flaglerhealth:fcf6beb9-4c78-4c26-b6c0-4740b22ef67d",
+        "ashby:tandem-health:f6abb199-3d50-44f9-9b2e-104d7c13a569",
+        "greenhouse:lighthouse:4999354101",
+        "greenhouse:thatch:5447384008",
+        "greenhouse:lighthouse:4964259101"
+      ],
+      "arms": {
+        "haiku-5-5": {
+          "model": "claude-haiku-5-5",
+          "repeats": {
+            "1": {
+              "runs": 115,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7313084112149533,
+              "macro_f1_type": 0.7366694237661979
+            },
+            "2": {
+              "runs": 115,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7503875968992249,
+              "macro_f1_type": 0.7582633053221288
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 3,
+              "n": 115,
+              "rate": 0.02608695652173913,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 5,
+              "n": 115,
+              "rate": 0.043478260869565216,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 1.907919
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 53,
+            "score": 1,
+            "recency": 2,
+            "tier": 0,
+            "label_signal": 15,
+            "label_type": 24
+          }
+        },
+        "sonnet-5-5": {
+          "model": "claude-sonnet-5-5",
+          "repeats": {
+            "1": {
+              "runs": 115,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6790697674418604,
+              "macro_f1_type": 0.7292008257558497
+            },
+            "2": {
+              "runs": 115,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7776857221761944,
+              "macro_f1_type": 0.7795016954150081
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 4,
+              "n": 115,
+              "rate": 0.034782608695652174,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 4,
+              "n": 115,
+              "rate": 0.034782608695652174,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 9.861595
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 60,
+            "score": 42,
+            "recency": 13,
+            "tier": 5,
+            "label_signal": 16,
+            "label_type": 26
+          }
+        },
+        "opus-5-5": {
+          "model": "claude-opus-5-5",
+          "repeats": {
+            "1": {
+              "runs": 27,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.889795918367347,
+              "macro_f1_type": 0.8593103448275862
+            }
+          },
+          "repeat_noise": null,
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 3,
+            "score": 0,
+            "recency": 0,
+            "tier": 0,
+            "label_signal": 1,
+            "label_type": 3
+          }
+        },
+        "haiku-4-5": {
+          "model": "claude-haiku-4-5-20251001",
+          "repeats": {
+            "1": {
+              "runs": 115,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6075117370892019,
+              "macro_f1_type": 0.632086164043082
+            },
+            "2": {
+              "runs": 115,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.6639150943396226,
+              "macro_f1_type": 0.6369875776397516
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 11,
+              "n": 113,
+              "rate": 0.09734513274336283,
+              "failures": {
+                "run 1": 1,
+                "run 2": 1
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 28,
+              "n": 113,
+              "rate": 0.24778761061946902,
+              "failures": {
+                "run 1": 1,
+                "run 2": 1
+              }
+            },
+            "macro_f1_signal_points": 5.640336
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 87,
+            "score": 12,
+            "recency": 9,
+            "tier": 7,
+            "label_signal": 21,
+            "label_type": 54
+          }
+        }
+      },
+      "comparisons": [
+        {
+          "baseline": "sonnet-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 115,
+          "macro_f1_signal": {
+            "baseline": 0.6790697674418604,
+            "candidate": 0.7313084112149533
+          },
+          "macro_f1_type": {
+            "baseline": 0.7292008257558497,
+            "candidate": 0.7366694237661979
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 3,
+            "n": 115,
+            "rate": 0.02608695652173913,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 8,
+            "n": 115,
+            "rate": 0.06956521739130435,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 19.72319,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.9, haiku-5-5 1.9; largest is sonnet-5-5. Threshold = max(2 x 9.9, 3) = 19.7 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 8.478261,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 3.5, haiku-5-5 2.6; largest is sonnet-5-5. Threshold = 3.5 + 5 = 8.5 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.679 -> 0.731: drop of -5.2 points within the 19.7-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.9, haiku-5-5 1.9; largest is sonnet-5-5. Threshold = max(2 x 9.9, 3) = 19.7 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-sonnet-5-5 vs claude-haiku-5-5): 3/115 labels changed = 2.6%; failures excluded: claude-sonnet-5-5 0, claude-haiku-5-5 0; within the 8.5-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 3.5, haiku-5-5 2.6; largest is sonnet-5-5. Threshold = 3.5 + 5 = 8.5 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        },
+        {
+          "baseline": "haiku-4-5",
+          "candidate": "haiku-5-5",
+          "kind": "model upgrade",
+          "post_count": 115,
+          "macro_f1_signal": {
+            "baseline": 0.6075117370892019,
+            "candidate": 0.7313084112149533
+          },
+          "macro_f1_type": {
+            "baseline": 0.632086164043082,
+            "candidate": 0.7366694237661979
+          },
+          "flip_rate_signal": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 9,
+            "n": 114,
+            "rate": 0.07894736842105263,
+            "failures": {
+              "claude-haiku-4-5-20251001": 1,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 21,
+            "n": 114,
+            "rate": 0.18421052631578946,
+            "failures": {
+              "claude-haiku-4-5-20251001": 1,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 11.280672,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 5.6, haiku-5-5 1.9; largest is haiku-4-5. Threshold = max(2 x 5.6, 3) = 11.3 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 14.734513,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 9.7, haiku-5-5 2.6; largest is haiku-4-5. Threshold = 9.7 + 5 = 14.7 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.608 -> 0.731: drop of -12.4 points within the 11.3-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 5.6, haiku-5-5 1.9; largest is haiku-4-5. Threshold = max(2 x 5.6, 3) = 11.3 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model upgrade (claude-haiku-4-5-20251001 vs claude-haiku-5-5): 9/114 labels changed = 7.9%; failures excluded: claude-haiku-4-5-20251001 1, claude-haiku-5-5 0; within the 14.7-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 9.7, haiku-5-5 2.6; largest is haiku-4-5. Threshold = 9.7 + 5 = 14.7 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        },
+        {
+          "baseline": "opus-5-5",
+          "candidate": "sonnet-5-5",
+          "kind": "model switch",
+          "post_count": 27,
+          "macro_f1_signal": {
+            "baseline": 0.889795918367347,
+            "candidate": 0.6693877551020408
+          },
+          "macro_f1_type": {
+            "baseline": 0.8593103448275862,
+            "candidate": 0.7655172413793103
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-sonnet-5-5"
+            ],
+            "changed": 2,
+            "n": 27,
+            "rate": 0.07407407407407407,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-sonnet-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-sonnet-5-5"
+            ],
+            "changed": 2,
+            "n": 27,
+            "rate": 0.07407407407407407,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-sonnet-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 19.72319,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.9; largest is sonnet-5-5. Threshold = max(2 x 9.9, 3) = 19.7 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 8.478261,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 3.5; largest is sonnet-5-5. Threshold = 3.5 + 5 = 8.5 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": false,
+              "reason": "macro-F1 0.890 -> 0.669: drop of 22.0 points exceeds the 19.7-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.9; largest is sonnet-5-5. Threshold = max(2 x 9.9, 3) = 19.7 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-opus-5-5 vs claude-sonnet-5-5): 2/27 labels changed = 7.4%; failures excluded: claude-opus-5-5 0, claude-sonnet-5-5 0; within the 8.5-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 3.5; largest is sonnet-5-5. Threshold = 3.5 + 5 = 8.5 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": false
+        },
+        {
+          "baseline": "opus-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 27,
+          "macro_f1_signal": {
+            "baseline": 0.889795918367347,
+            "candidate": 0.889795918367347
+          },
+          "macro_f1_type": {
+            "baseline": 0.8593103448275862,
+            "candidate": 0.874161220043573
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 0,
+            "n": 27,
+            "rate": 0.0,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-opus-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 2,
+            "n": 27,
+            "rate": 0.07407407407407407,
+            "failures": {
+              "claude-opus-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 3.815838,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-5-5 1.9; largest is haiku-5-5. Threshold = max(2 x 1.9, 3) = 3.8 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 7.608696,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-5-5 2.6; largest is haiku-5-5. Threshold = 2.6 + 5 = 7.6 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.890 -> 0.890: drop of 0.0 points within the 3.8-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-5-5 1.9; largest is haiku-5-5. Threshold = max(2 x 1.9, 3) = 3.8 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model switch (claude-opus-5-5 vs claude-haiku-5-5): 0/27 labels changed = 0.0%; failures excluded: claude-opus-5-5 0, claude-haiku-5-5 0; within the 7.6-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-5-5 2.6; largest is haiku-5-5. Threshold = 2.6 + 5 = 7.6 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        }
+      ]
+    },
+    "ambiguous subset, posted within 90 days": {
+      "post_ids": [
+        "ashby:levelpath:8a79546b-7530-43e0-8ecf-af2c63ecab77",
+        "ashby:lovable:ac61dda2-bff0-4f22-adca-a48b0b2f560c",
+        "ashby:fonoa:50bb2196-a56a-4d41-bf96-6ea822874ee5",
+        "greenhouse:hiddenlayer:5244245007",
+        "ashby:spekit:e650c488-531a-4c98-a7e5-5d97c3915391",
+        "ashby:incident:dd585c05-9736-4ba3-a71a-838ba66deea5",
+        "greenhouse:orcasecurity:6161080004",
+        "ashby:tacto:dbb872a5-a598-4cf2-9d4d-e2eb3e2ffd6f",
+        "ashby:amenitiz:22cf7637-818e-4d3f-a029-f4335788ddaf",
+        "ashby:trm-labs:a64577e7-ee7e-4682-8630-a242d558128d",
+        "ashby:coderabbit:a5fad4ec-46d4-4e6a-8383-fde5f772bca1",
+        "ashby:fonoa:8645ba92-564e-488d-9c9f-e48fe2b794e9",
+        "ashby:rillet:6754d55f-c307-420c-afbf-392ea2136a89",
+        "ashby:sitemate:59ad84a7-7964-47c6-96d0-1e1245008049",
+        "ashby:plentific:fccedd7c-f503-47b5-8707-6f434530b035",
+        "ashby:lovable:3944f55e-910f-4248-ba28-2c1e6143eb28",
+        "greenhouse:orcasecurity:6222178004",
+        "ashby:strella:f5514bed-940e-4f43-b28d-534be7870c91",
+        "ashby:attio:eef50b66-c092-4018-bff5-08b81889a4f4",
+        "ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e",
+        "ashby:amenitiz:138a19d8-4621-4c43-8c80-eced02f54578",
+        "ashby:deepgram:d9d5aa44-b675-46e9-b596-45c1c5dca858",
+        "greenhouse:testlio:8121637",
+        "ashby:tandem-health:50e78116-7b2c-4fa7-a299-bd24cfe69db3",
+        "ashby:plentific:30a7deba-7d52-4233-bc4f-594c031e2c1f",
+        "ashby:pearlhealth:5d5e3036-a776-4e13-8041-d28faa86a106",
+        "ashby:incident:3273dd8c-b333-4cf1-859a-431fba8e7f17",
+        "greenhouse:orcasecurity:6186235004",
+        "ashby:lovable:4f26af7a-43ad-48f4-9902-1e779c05af66",
+        "ashby:sanity:4f892238-04a5-442e-ab36-7f1f60010abf",
+        "ashby:attio:72c41b8f-7a33-4285-8204-fff00ca4b9c8",
+        "ashby:anrok:4b429b09-18d0-4438-b31b-d022677d8702",
+        "lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3",
+        "ashby:netboxlabs:6db20463-5f41-4aaa-8118-081c76e4f01f",
+        "ashby:dotfile:b51f6139-e873-46f5-a868-8b40d375647c",
+        "lever:zilliz:4293390a-f3e0-4b91-9b63-a1526f620983",
+        "greenhouse:gradial:4403556009",
+        "lever:ethena:f2e45009-809f-4ff1-bb03-b230e770bb91",
+        "greenhouse:connecteam:6220870004",
+        "lever:supermove:0f318ca9-3c7b-4350-ab02-21ab44fa4b17",
+        "ashby:rillet:e484c722-2839-46b6-b0b7-fb1a463cd95f",
+        "ashby:netboxlabs:58400b30-dccb-4b10-aa64-cb01ca805494",
+        "ashby:numeral:9daa0f11-e625-4e35-9fc9-6b555f4e7d5f",
+        "ashby:incident:4e08c20c-cdea-4769-94b3-4060b5301cd6",
+        "ashby:flowengineering:d6d06674-e195-4a3b-a534-5787f8fb0d92",
+        "ashby:constructor:607c2cd0-0e84-4a8d-b8a5-9dd14bc017d8",
+        "ashby:eye-security:21a8c845-7f1b-48d9-8f8f-e8e59a2dcfcc",
+        "greenhouse:levanta:5421875008",
+        "ashby:flaglerhealth:eeca0f24-5c4f-4afd-bc17-8027a3c2a8ee",
+        "ashby:abacum:8fdce4e8-0219-40a0-9475-e95e4d3c47e8",
+        "ashby:incident:b4a5d057-602c-40f7-90e3-f8322e1f2b0b",
+        "lever:tryjeeves:2165b262-6b74-4122-bc4f-7fee7e1bd0bf",
+        "ashby:companycam:9c8921a4-88a3-4240-a6ff-12d1cafac919",
+        "lever:portcast:e5b90ced-6e65-46c6-b0c9-7b138c50b54c"
+      ],
+      "arms": {
+        "haiku-5-5": {
+          "model": "claude-haiku-5-5",
+          "repeats": {
+            "1": {
+              "runs": 54,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7467166979362101,
+              "macro_f1_type": 0.5630607364897179
+            },
+            "2": {
+              "runs": 54,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8066496163682864,
+              "macro_f1_type": 0.566606334841629
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 7,
+              "n": 54,
+              "rate": 0.12962962962962962,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-5-5 run 1",
+                "claude-haiku-5-5 run 2"
+              ],
+              "changed": 7,
+              "n": 54,
+              "rate": 0.12962962962962962,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 5.993292
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 5,
+            "score": 5,
+            "recency": 1,
+            "tier": 0,
+            "label_signal": 17,
+            "label_type": 19
+          }
+        },
+        "sonnet-5-5": {
+          "model": "claude-sonnet-5-5",
+          "repeats": {
+            "1": {
+              "runs": 54,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.7857142857142857,
+              "macro_f1_type": 0.6142857142857142
+            },
+            "2": {
+              "runs": 54,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.8772727272727273,
+              "macro_f1_type": 0.666060606060606
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 6,
+              "n": 54,
+              "rate": 0.1111111111111111,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-sonnet-5-5 run 1",
+                "claude-sonnet-5-5 run 2"
+              ],
+              "changed": 6,
+              "n": 54,
+              "rate": 0.1111111111111111,
+              "failures": {
+                "run 1": 0,
+                "run 2": 0
+              }
+            },
+            "macro_f1_signal_points": 9.155844
+          },
+          "check_failures": {
+            "structured_output": 0,
+            "evidence": 4,
+            "score": 23,
+            "recency": 5,
+            "tier": 11,
+            "label_signal": 12,
+            "label_type": 12
+          }
+        },
+        "haiku-4-5": {
+          "model": "claude-haiku-4-5-20251001",
+          "repeats": {
+            "1": {
+              "runs": 54,
+              "failed_runs": 0,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5533834586466165,
+              "macro_f1_type": 0.38095238095238093
+            },
+            "2": {
+              "runs": 54,
+              "failed_runs": 1,
+              "excluded_runs": 0,
+              "macro_f1_signal": 0.5947686116700202,
+              "macro_f1_type": 0.38015318015318017
+            }
+          },
+          "repeat_noise": {
+            "signal": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 22,
+              "n": 53,
+              "rate": 0.41509433962264153,
+              "failures": {
+                "run 1": 0,
+                "run 2": 1
+              }
+            },
+            "signal_type": {
+              "kind": "repeat noise",
+              "sides": [
+                "claude-haiku-4-5-20251001 run 1",
+                "claude-haiku-4-5-20251001 run 2"
+              ],
+              "changed": 29,
+              "n": 53,
+              "rate": 0.5471698113207547,
+              "failures": {
+                "run 1": 0,
+                "run 2": 1
+              }
+            },
+            "macro_f1_signal_points": 4.138515
+          },
+          "check_failures": {
+            "structured_output": 1,
+            "evidence": 40,
+            "score": 12,
+            "recency": 12,
+            "tier": 17,
+            "label_signal": 42,
+            "label_type": 45
+          }
+        }
+      },
+      "comparisons": [
+        {
+          "baseline": "sonnet-5-5",
+          "candidate": "haiku-5-5",
+          "kind": "model switch",
+          "post_count": 54,
+          "macro_f1_signal": {
+            "baseline": 0.7857142857142857,
+            "candidate": 0.7467166979362101
+          },
+          "macro_f1_type": {
+            "baseline": 0.6142857142857142,
+            "candidate": 0.5630607364897179
+          },
+          "flip_rate_signal": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 10,
+            "n": 54,
+            "rate": 0.18518518518518517,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model switch",
+            "sides": [
+              "claude-sonnet-5-5",
+              "claude-haiku-5-5"
+            ],
+            "changed": 12,
+            "n": 54,
+            "rate": 0.2222222222222222,
+            "failures": {
+              "claude-sonnet-5-5": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 18.311688,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.2, haiku-5-5 6.0; largest is sonnet-5-5. Threshold = max(2 x 9.2, 3) = 18.3 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 17.962963,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 11.1, haiku-5-5 13.0; largest is haiku-5-5. Threshold = 13.0 + 5 = 18.0 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.786 -> 0.747: drop of 3.9 points within the 18.3-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): sonnet-5-5 9.2, haiku-5-5 6.0; largest is sonnet-5-5. Threshold = max(2 x 9.2, 3) = 18.3 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": false,
+              "reason": "model switch (claude-sonnet-5-5 vs claude-haiku-5-5): 10/54 labels changed = 18.5%; failures excluded: claude-sonnet-5-5 0, claude-haiku-5-5 0; exceeds the 18.0-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): sonnet-5-5 11.1, haiku-5-5 13.0; largest is haiku-5-5. Threshold = 13.0 + 5 = 18.0 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": false
+        },
+        {
+          "baseline": "haiku-4-5",
+          "candidate": "haiku-5-5",
+          "kind": "model upgrade",
+          "post_count": 54,
+          "macro_f1_signal": {
+            "baseline": 0.5533834586466165,
+            "candidate": 0.7467166979362101
+          },
+          "macro_f1_type": {
+            "baseline": 0.38095238095238093,
+            "candidate": 0.5630607364897179
+          },
+          "flip_rate_signal": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 18,
+            "n": 54,
+            "rate": 0.3333333333333333,
+            "failures": {
+              "claude-haiku-4-5-20251001": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "flip_rate_type": {
+            "kind": "model upgrade",
+            "sides": [
+              "claude-haiku-4-5-20251001",
+              "claude-haiku-5-5"
+            ],
+            "changed": 22,
+            "n": 54,
+            "rate": 0.4074074074074074,
+            "failures": {
+              "claude-haiku-4-5-20251001": 0,
+              "claude-haiku-5-5": 0
+            }
+          },
+          "thresholds": {
+            "macro_f1_drop": {
+              "name": "macro-F1 drop",
+              "points": 11.986584,
+              "derivation": "Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 4.1, haiku-5-5 6.0; largest is haiku-5-5. Threshold = max(2 x 6.0, 3) = 12.0 points."
+            },
+            "flip_rate": {
+              "name": "flip rate",
+              "points": 46.509434,
+              "derivation": "Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 41.5, haiku-5-5 13.0; largest is haiku-4-5. Threshold = 41.5 + 5 = 46.5 points."
+            }
+          },
+          "verdicts": [
+            {
+              "name": "macro_f1_drop",
+              "passed": true,
+              "reason": "macro-F1 0.553 -> 0.747: drop of -19.3 points within the 12.0-point threshold. Fail if macro-F1 vs hand labels drops by more than max(2 x measured repeat noise in F1, 3 points). Measured repeat noise in F1 (points): haiku-4-5 4.1, haiku-5-5 6.0; largest is haiku-5-5. Threshold = max(2 x 6.0, 3) = 12.0 points.",
+              "heuristic": false
+            },
+            {
+              "name": "flip_rate",
+              "passed": true,
+              "reason": "model upgrade (claude-haiku-4-5-20251001 vs claude-haiku-5-5): 18/54 labels changed = 33.3%; failures excluded: claude-haiku-4-5-20251001 0, claude-haiku-5-5 0; within the 46.5-point threshold. Fail if the flip rate between arms exceeds measured repeat noise + 5 points. Measured repeat noise (points): haiku-4-5 41.5, haiku-5-5 13.0; largest is haiku-4-5. Threshold = 41.5 + 5 = 46.5 points.",
+              "heuristic": false
+            }
+          ],
+          "passed": true
+        }
+      ]
+    }
+  },
+  "excluded_runs": [],
+  "failed_runs": [
+    {
+      "post_id": "ashby:sanity:05920588-9b6e-4d13-b527-89fe5ade9847",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 1,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "greenhouse:reachdesk:4923515101",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 1,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "ashby:levelpath:5d5d69c5-7977-4c74-9ba3-e26be06be081",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 1,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "ashby:vendelux:51060e70-da86-4b08-a4c3-08bdfb0eff79",
+      "arm": "sonnet-5-5",
+      "model": "claude-sonnet-5-5",
+      "repeat": 2,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "ashby:wonderful:e10595c8-2e68-40e5-8c26-68bcecada2d5",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 2,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "greenhouse:observeai:5107653008",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 2,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "ashby:attio:acbedaad-aa1e-4c9f-bce2-cca372cd2751",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 2,
+      "failure_reason": "error result (subtype error_max_turns): "
+    },
+    {
+      "post_id": "ashby:abacum:8fdce4e8-0219-40a0-9475-e95e4d3c47e8",
+      "arm": "haiku-4-5",
+      "model": "claude-haiku-4-5-20251001",
+      "repeat": 2,
+      "failure_reason": "error result (subtype error_max_turns): "
+    }
+  ],
+  "label_agreement": null,
+  "inputs": {
+    "runs": 1768,
+    "skill_hashes": [
+      "3623351d927c50d3d0cca711f52ba80cafc7f088de0582ba33a625ee1bbd8dd4"
+    ],
+    "cli_versions": [
+      "2.1.302"
+    ],
+    "efforts": [
+      "cli-default"
+    ]
+  }
+}

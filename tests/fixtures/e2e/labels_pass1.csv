@@ -1,0 +1,7 @@
+post_id,url,company,title,post_date,collection_date,signal,signal_type,labelled_on,notes
+gh-acme-1,https://boards.greenhouse.io/acme/jobs/1,Acme,Senior SDR,2026-10-15,2026-10-20,yes,sdr_bdr_hiring,2026-10-21,
+lv-globex-1,https://jobs.lever.co/globex/1,Globex,Account Executive,2026-10-10,2026-10-20,yes,ae_hiring,2026-10-21,
+ab-initech-1,https://jobs.ashbyhq.com/initech/1,Initech,VP of Sales,2026-09-30,2026-10-20,yes,sales_leadership,2026-10-21,
+gh-hooli-1,https://boards.greenhouse.io/hooli/jobs/1,Hooli,Retail Sales Associate,2026-10-18,2026-10-20,no,not_signal,2026-10-21,
+lv-initrode-1,https://jobs.lever.co/initrode/1,Initrode,Account Manager,2026-10-14,2026-10-20,yes,ae_hiring,2026-10-21,
+ab-vandelay-1,https://jobs.ashbyhq.com/vandelay/1,Vandelay,Customer Success Manager,2026-10-12,2026-10-20,no,not_signal,2026-10-21,

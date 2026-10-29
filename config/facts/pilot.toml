@@ -1,0 +1,26 @@
+# FACTs from the day-1 pilot. Each value is measured; source in the comment.
+
+# Flag probe, 2026-10-26, Claude Code 2.1.302, Pro login (evals/results/pilot/probes.json):
+# the first ladder step (--tools "" --max-turns 1) returned schema-valid structured output.
+tools_flag = ""
+max_turns = 1
+
+# Old-Haiku probe, same run: claude-haiku-4-5-20251001 answered on Pro with structured output
+# (answer_models = [claude-haiku-4-5-20251001]; claude-haiku-5-5 appears only as Claude Code's
+# background call). The model-upgrade arm (Haiku 4.5 -> 5.5) is enabled.
+# A first probe run had marked it FAILED because it compared every modelUsage key; that run is
+# kept as evals/results/pilot/probes-v1-before-answer-model-fix.json.
+haiku_4_5_probe_passed = true
+
+# Pilot batches (evals/results/pilot/runs.jsonl, usage.jsonl), 20 runs each, 0 failed, every
+# answer written by the arm's pinned model. Mean list-price cost per run (a proxy, 02a s4):
+#   haiku-5-5 $0.0036, sonnet-5-5 $0.0565, opus-5-5 $0.118; haiku-4-5 probe $0.032.
+# Plan utilization (rate_limit_event, 0.01 resolution, logged per run from the Opus batch on):
+#   Opus 20 runs: five_hour 0.09 -> 0.20, seven_day 0.13 -> 0.14. Haiku and Sonnet batches were
+#   read from /usage by hand (integers; the Sonnet batch straddled a 5-hour reset), weekly +1 each.
+# Full plan at those costs: 280 posts x (haiku-5-5, sonnet-5-5, haiku-4-5) x 2 + opus x 50
+#   + ~60 drafts ~= $68 list ~= 30-45% of a week, with the weekly at 14% now: inside the
+#   60-70% weekly rule. So the targets stand; batches pause at 80% of any 5-hour window.
+natural_sample_size = 200
+ambiguous_subset_size = 80
+opus_subset_size = 50

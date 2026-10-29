@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/7000001",
+      "id": 7000001,
+      "updated_at": "2026-09-30T08:00:00+02:00",
+      "title": "Lab Technician",
+      "company_name": "Acme Labs GmbH",
+      "first_published": "2026-09-01T08:00:00+02:00",
+      "content": "&lt;p&gt;Acme Labs runs clinical assays in Hamburg.&lt;/p&gt;",
+      "location": {"name": "Hamburg"},
+      "departments": [],
+      "offices": []
+    }
+  ],
+  "meta": {"total": 1}
+}

@@ -1,0 +1,4 @@
+company,domain,ats,token,funding_stage,funding_evidence_url,sales_roles_open,jobs_listed,newest_post_date,qualified,reason
+Initech,initech.example,ashby,initech,Series B,https://news.example/initech-series-b,2,4,2026-10-20,True,identity name_in_text; hand-written fixture
+Globex,globex.example,lever,globex,Series A,https://news.example/globex-series-a,1,3,2026-10-21,True,identity name_in_text; hand-written fixture
+Hooli,hooli.example,greenhouse,hooli,Seed,https://news.example/hooli-seed,1,3,2026-10-01,False,not Series A+

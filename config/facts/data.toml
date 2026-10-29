@@ -1,0 +1,66 @@
+# FACT: the data collection (spec Resolutions 12, 17, 18; docs/spec.md).
+# Verified read-only on 2026-10-26 against builds/quality-gate/data/ (gitignored, local only).
+# Read with Config.fact("data.<key>"). All paths are relative to builds/quality-gate/.
+
+checked_on = 2026-10-26
+source_readme = "data/README.md"
+
+[layout]
+# Seed list: one row per candidate board that was evaluated (125 rows).
+seed = "data/seed.csv"
+seed_format = "csv, utf-8, header row"
+seed_columns = ["company", "domain", "ats", "token", "funding_stage", "funding_evidence_url",
+                "sales_roles_open", "jobs_listed", "newest_post_date", "qualified", "reason"]
+seed_qualified_column = "qualified"   # literal "True" / "False"
+seed_qualified_value = "True"
+# Larger candidate pool the seed was drawn from (not used by the gate).
+seed_candidates = "data/seed_candidates.csv"
+funding_evidence = "data/discovery/funding_evidence.csv"
+# Raw ATS list responses: exactly one per qualified board, the documented public
+# list endpoint's JSON body as returned (Greenhouse/Ashby: object with "jobs";
+# Lever: bare array). Emails and names after recruiter cues were redacted by the
+# data agent; the collector redacts again on parse.
+raw_dir = "data/raw"
+raw_glob = "*.json"                                  # top level only; skip data/raw/_probe_cache/
+raw_name_pattern = '^(ashby|greenhouse|lever)-(.+)-(\d{4}-\d{2}-\d{2})\.json$'  # ats, token, collection date
+raw_name = "<ats>-<token>-<collection date YYYY-MM-DD>.json"
+raw_join = "(ats, token) matches seed.csv (ats, token) of a qualified row; company and domain come from that row"
+collection_date_rule = "the date in the raw file name (the day its list response was fetched); signal age and the 60-day window are measured from it"
+lever_eu_boards = 0                                  # no raw file uses api.eu.lever.co
+probe_cache_dir = "data/raw/_probe_cache"            # data agent's fetch cache; not an ingest input
+# Data agent's own normalised posts (metadata only, its titles.py filter). Reference only:
+# the gate re-derives posts from raw/ through quality_gate.collector + config/title_filter.toml.
+agent_posts = "data/posts.csv"
+agent_posts_columns = ["company", "ats", "job_id", "title", "url", "posted_date", "collection_date",
+                       "location", "is_ambiguous_title", "ambiguous_family"]
+# Written by the ingest step, not by the data collection.
+posts_out = "data/posts/posts.jsonl"
+samples_out = "data/samples/samples.json"
+
+[companies]
+# Resolution 18: every qualifying company is used.
+seed_rows = 125
+qualified = 120
+rejected = 5
+by_ats = { ashby = 71, greenhouse = 34, lever = 15 }
+by_stage = { series_a = 22, series_b = 49, series_c = 49 }
+raw_files = 120
+
+[posts]
+# Parsed from raw/ with quality_gate.collector.parse_board (Ashby isListed=false dropped).
+all_listed = 2679
+# Sales-ish per config/title_filter.toml (quality_gate.sampler.classify_title): the gate's population.
+sales_ish = 824
+ambiguous = 370
+natural_pool = 454                      # sales_ish - ambiguous
+ambiguous_by_family = { solutions_engineer = 112, csm = 83, account_manager = 73, partnerships = 60, revops = 42 }
+sales_ish_by_collection_date = { "2026-10-22" = 607, "2026-10-23" = 217 }
+# The data agent's own count (data/posts.csv, scripts/titles.py). It has 33 more non-ambiguous
+# titles that title_filter.toml excludes (recruiters, growth marketing, GTM systems/field engineers);
+# the ambiguous 370 and every post date agree exactly.
+agent_sales_ish = 857
+agent_ambiguous = 370
+agent_by_collection_date = { "2026-10-22" = 633, "2026-10-23" = 224 }
+
+[collection]
+dates = [2026-10-22, 2026-10-23]

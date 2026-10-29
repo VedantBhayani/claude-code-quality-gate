@@ -1,0 +1,37 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "init-0001",
+      "title": "Account Executive, Mid-Market",
+      "publishedAt": "2026-10-20T09:00:00.000+00:00",
+      "isListed": true,
+      "jobUrl": "https://jobs.ashbyhq.com/initech/init-0001",
+      "descriptionPlain": "Initech is hiring Account Executives to own new logos."
+    },
+    {
+      "id": "init-0002",
+      "title": "Customer Success Manager",
+      "publishedAt": "2026-10-10T09:00:00.000+00:00",
+      "isListed": true,
+      "jobUrl": "https://jobs.ashbyhq.com/initech/init-0002",
+      "descriptionPlain": "Initech customers need a partner after the sale."
+    },
+    {
+      "id": "init-0003",
+      "title": "Software Engineer, Backend",
+      "publishedAt": "2026-10-01T09:00:00.000+00:00",
+      "isListed": true,
+      "jobUrl": "https://jobs.ashbyhq.com/initech/init-0003",
+      "descriptionPlain": "Build Initech's billing service."
+    },
+    {
+      "id": "init-0004",
+      "title": "Account Executive (Unlisted)",
+      "publishedAt": "2026-10-18T09:00:00.000+00:00",
+      "isListed": false,
+      "jobUrl": "https://jobs.ashbyhq.com/initech/init-0004",
+      "descriptionPlain": "Unlisted role."
+    }
+  ]
+}

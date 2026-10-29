@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SignalScoringOutput",
+  "description": "One intent-signals judgement on one job post. Shape only: whether the score, recency band and tier follow the skill's rules is checked by the gate, not enforced here.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["signal", "signal_type", "evidence", "factors", "total", "recency_band", "tier", "action"],
+  "properties": {
+    "signal": {
+      "type": "boolean",
+      "description": "true if the post is a buying signal for the offer described in the prompt."
+    },
+    "signal_type": {
+      "type": "string",
+      "enum": ["sdr_bdr_hiring", "ae_hiring", "sales_leadership", "revops_gtm_eng", "not_signal"],
+      "description": "Kind of signal; not_signal exactly when signal is false."
+    },
+    "evidence": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Verbatim quotes copied from the post text that support the judgement. Empty when signal is false."
+    },
+    "factors": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["recency", "directness", "frequency", "specificity", "source"],
+      "description": "The five Signal Strength Matrix factors, each rated 1-5.",
+      "properties": {
+        "recency": {"type": "integer", "minimum": 1, "maximum": 5},
+        "directness": {"type": "integer", "minimum": 1, "maximum": 5},
+        "frequency": {"type": "integer", "minimum": 1, "maximum": 5},
+        "specificity": {"type": "integer", "minimum": 1, "maximum": 5},
+        "source": {"type": "integer", "minimum": 1, "maximum": 5}
+      }
+    },
+    "total": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 50,
+      "description": "Signal Score out of 50 from the skill's Scoring Formula."
+    },
+    "recency_band": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low", "None"],
+      "description": "Recency column of the Signal Strength Matrix for the post date vs the collection date; None if older than the Low band."
+    },
+    "tier": {
+      "type": "string",
+      "enum": ["Critical", "High", "Medium", "Low", "Noise"],
+      "description": "Priority from the skill's score table."
+    },
+    "action": {
+      "type": "string",
+      "description": "The action the skill's score table gives for that priority."
+    }
+  }
+}

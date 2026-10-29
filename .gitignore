@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# recorded test fixtures are source, not run logs
+!tests/fixtures/**/*.jsonl

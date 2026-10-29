@@ -1,0 +1,13 @@
+{
+  "draft_id": "fail_reading_level_high",
+  "subject": "your new sdr team",
+  "body": "Hi Sam,\n\nNoticed your recent announcement regarding the Senior SDR position supporting outbound expansion.\n\nOrganizations establishing outbound development functions frequently underestimate the operational complexity of identifying appropriately qualified prospective accounts. Our platform continuously monitors organizational hiring activity, delivering prioritized opportunities.\n\nWould it help to see the list we would send your team this week?\n\nAlex",
+  "role_title": "Senior SDR",
+  "evidence": [
+    "We are building our first outbound SDR team in Austin."
+  ],
+  "expected_fails": [
+    "reading_level"
+  ],
+  "expected_warns": []
+}

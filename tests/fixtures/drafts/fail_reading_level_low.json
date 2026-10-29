@@ -1,0 +1,13 @@
+{
+  "draft_id": "fail_reading_level_low",
+  "subject": "your new sdr team",
+  "body": "Hi Sam,\n\nSaw the Senior SDR job. Nice.\n\nWe help. Reps call. Deals close. It is fun.\n\nWant to see it?\n\nAlex",
+  "role_title": "Senior SDR",
+  "evidence": [
+    "We are building our first outbound SDR team in Austin."
+  ],
+  "expected_fails": [
+    "reading_level"
+  ],
+  "expected_warns": []
+}

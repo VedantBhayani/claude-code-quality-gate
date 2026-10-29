@@ -1,0 +1,23 @@
+[
+  {
+    "additional": "<div>We offer equity &amp; benefits.</div>",
+    "additionalPlain": "We offer equity & benefits.",
+    "categories": {"commitment": "Full-time", "department": "Revenue", "location": "Berlin", "team": "Sales", "allLocations": ["Berlin"]},
+    "createdAt": 1759924800000,
+    "description": "<div>Globex is hiring its first <b>Account Executive</b>.</div>",
+    "descriptionPlain": "Globex is hiring its first Account Executive.",
+    "id": "a1b2c3d4-0000-4000-8000-000000000001",
+    "lists": [
+      {"text": "What you'll do", "content": "<li>Own a quota of new logos</li><li>Run discovery &amp; demos</li>"}
+    ],
+    "text": "Account Executive, DACH",
+    "country": "DE",
+    "workplaceType": "hybrid",
+    "opening": "",
+    "openingPlain": "",
+    "descriptionBody": "<div>Globex is hiring its first <b>Account Executive</b>.</div>",
+    "descriptionBodyPlain": "Globex is hiring its first Account Executive.",
+    "hostedUrl": "https://jobs.eu.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000001",
+    "applyUrl": "https://jobs.eu.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000001/apply"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "draft_id": "warn_length",
+  "subject": "your new sdr team",
+  "body": "Hi Sam,\n\nSaw you are hiring a Senior SDR to build your first outbound team in Austin.\n\nMost new SDR teams spend their first few months figuring out which accounts are really worth calling. We track the companies that are hiring for sales right now, so your reps can start every week with a short list of warm accounts.\n\nEach account comes with the job post that flagged it and the date it went live. Your reps can open with that post instead of a cold guess about the company.\n\nEvery account comes with the job post that flagged it and the date it went live. Your reps can open with that post instead of a cold guess about the company.\n\nWould it help to see the list we would send your team this week?\n\nAlex",
+  "role_title": "Senior SDR",
+  "evidence": [
+    "We are building our first outbound SDR team in Austin."
+  ],
+  "expected_fails": [],
+  "expected_warns": [
+    "length"
+  ]
+}

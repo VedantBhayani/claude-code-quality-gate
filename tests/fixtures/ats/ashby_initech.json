@@ -1,0 +1,39 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "0f9e8d7c-1111-4222-8333-444455556666",
+      "title": "Head of Revenue Operations",
+      "department": "Go To Market",
+      "team": "RevOps",
+      "employmentType": "FullTime",
+      "location": "Remote - US",
+      "secondaryLocations": [],
+      "publishedAt": "2026-10-15T17:02:11.734+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "address": {"postalAddress": {"addressCountry": "United States"}},
+      "jobUrl": "https://jobs.ashbyhq.com/initech/0f9e8d7c-1111-4222-8333-444455556666",
+      "applyUrl": "https://jobs.ashbyhq.com/initech/0f9e8d7c-1111-4222-8333-444455556666/application",
+      "descriptionHtml": "<p>Initech is building the RevOps function from scratch.</p><p>You will own Salesforce &amp; our GTM data.</p>",
+      "descriptionPlain": "Initech is building the RevOps function from scratch.\n\nYou will own Salesforce & our GTM data.",
+      "compensation": {"compensationTierSummary": "$180K - $220K", "scrapeableCompensationSalarySummary": "$180K - $220K"}
+    },
+    {
+      "id": "aaaaaaaa-2222-4333-8444-555566667777",
+      "title": "Account Executive (Confidential Backfill)",
+      "department": "Go To Market",
+      "team": "Sales",
+      "employmentType": "FullTime",
+      "location": "New York",
+      "secondaryLocations": [],
+      "publishedAt": "2026-10-18T09:00:00.000+00:00",
+      "isListed": false,
+      "isRemote": false,
+      "jobUrl": "https://jobs.ashbyhq.com/initech/aaaaaaaa-2222-4333-8444-555566667777",
+      "applyUrl": "https://jobs.ashbyhq.com/initech/aaaaaaaa-2222-4333-8444-555566667777/application",
+      "descriptionHtml": "<p>Unlisted role.</p>",
+      "descriptionPlain": "Unlisted role."
+    }
+  ]
+}

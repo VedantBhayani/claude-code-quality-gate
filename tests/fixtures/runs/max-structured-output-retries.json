@@ -1,0 +1,12 @@
+{
+  "post_id": "gh-1",
+  "arm": "haiku-5-5",
+  "model": "claude-haiku-5-5",
+  "repeat": 2,
+  "structured_output": null,
+  "failure_reason": "error_max_structured_output_retries",
+  "model_usage_keys": ["claude-haiku-5-5"],
+  "cli_version": "2.5.0",
+  "skill_hash": "abc",
+  "effort": "cli-default"
+}

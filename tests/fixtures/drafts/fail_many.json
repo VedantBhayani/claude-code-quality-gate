@@ -1,0 +1,18 @@
+{
+  "draft_id": "fail_many",
+  "subject": "[Free] Pipeline for {{companyName}}!",
+  "body": "Hope you are well.\n\nAct now: this is a limited time offer for new teams.\n\nCan we book a call?\n\nAlex",
+  "role_title": "Senior SDR",
+  "evidence": [
+    "We are building our first outbound SDR team in Austin."
+  ],
+  "expected_fails": [
+    "subject",
+    "first_line_signal",
+    "cta",
+    "variables",
+    "spam_words",
+    "reading_level"
+  ],
+  "expected_warns": []
+}

@@ -1,0 +1,111 @@
+# "Sales-ish" title filter (spec Resolution 17): defines the natural sample's population.
+# Every pattern is a Python regex, matched case-insensitively anywhere in the title.
+# Order of evaluation (quality_gate.sampler.classify_title):
+#   1. hard_exclude  -> out, whatever else matches (Salesforce developers, marketing, legal)
+#   2. ambiguous     -> sales-ish, ambiguous role of that family (goes to the ambiguous subset only)
+#   3. exclude       -> out (engineering / design / finance / people titles)
+#   4. include       -> sales-ish, natural sample
+#   5. otherwise     -> out
+# Ambiguous families follow spec story 11 and GLOSSARY "Ambiguous role":
+# Account Manager, CSM, Solutions Engineer, Partnerships, RevOps.
+# Kept consistent with scripts/titles.py (data agent), plus Resolution 17's explicit
+# Revenue, GTM and Head/VP/Director/Chief of Sales/Revenue/Growth and a generic
+# engineering/design/finance exclusion.
+
+[hard_exclude]
+patterns = [
+  'salesforce',
+  'marketing',
+  '\blegal\b',
+  'counsel',
+]
+
+[[ambiguous]]
+family = "account_manager"
+patterns = [
+  '\baccount manag',
+  '\baccount director',
+  '\bclient partner',
+  '\bkey account',
+  '\bclient (success )?manager',
+  '\brelationship manager',
+]
+
+[[ambiguous]]
+family = "csm"
+patterns = [
+  'customer success',
+  '\bcsm\b',
+  'client success',
+]
+
+[[ambiguous]]
+family = "solutions_engineer"
+patterns = [
+  'solutions? (engineer|architect|consultant)',
+  'sales engineer',
+  'pre-?sales',
+  'value engineer',
+]
+
+[[ambiguous]]
+family = "partnerships"
+patterns = [
+  'partnership',
+  'partner (manager|development|sales|success)',
+  '\bchannel\b',
+  'alliance',
+]
+
+[[ambiguous]]
+family = "revops"
+patterns = [
+  'rev(enue)?\s?ops',
+  'revenue operations',
+  'sales operations',
+  'sales ops',
+  'gtm (operations|ops|engineer)',
+  'go-to-market (operations|engineer)',
+  'sales enablement',
+  'deal desk',
+  'sales systems',
+  'crm (admin|manager)',
+]
+
+[exclude]
+patterns = [
+  'engineer',
+  '\bdeveloper\b',
+  'design',
+  'product manager',
+  'data scientist',
+  'financ',
+  'accountant',
+  'accounting',
+  'payroll',
+  '\btax\b',
+  'recruit',
+  'talent',
+  'people partner',
+  'hr business partner',
+]
+
+[include]
+patterns = [
+  'account executive',
+  '\bae\b',
+  '\bsdr\b',
+  '\bbdr\b',
+  'sales development',
+  'business development',
+  '\bsales\b',
+  '\bseller\b',
+  '\brevenue\b',
+  '\bcro\b',
+  '\bgtm\b',
+  'go-to-market',
+  '\b(head|vp|vice president|director|chief)\b.{0,12}\b(sales|revenue|growth)\b',
+  'new business',
+  'growth representative',
+  'commercial (lead|director|manager)',
+]

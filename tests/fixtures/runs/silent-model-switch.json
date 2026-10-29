@@ -1,0 +1,21 @@
+{
+  "post_id": "gh-1",
+  "arm": "sonnet-5-5",
+  "model": "claude-sonnet-5-5",
+  "repeat": 1,
+  "structured_output": {
+    "signal": true,
+    "signal_type": "sdr_bdr_hiring",
+    "evidence": ["We're building our first outbound team"],
+    "factors": {"recency": 5, "directness": 4, "frequency": 3, "specificity": 3, "source": 4},
+    "total": 40,
+    "recency_band": "High",
+    "tier": "Critical",
+    "action": "Contact within 24 hours"
+  },
+  "failure_reason": null,
+  "model_usage_keys": ["claude-sonnet-5-5", "claude-opus-5-5"],
+  "cli_version": "2.5.0",
+  "skill_hash": "abc",
+  "effort": "cli-default"
+}

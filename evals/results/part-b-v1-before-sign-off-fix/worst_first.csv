@@ -1,0 +1,410 @@
+rank,label,post_id,company,failed,severity,warnings,failed_checks,subject,body
+1,sample,greenhouse:cognism:5004981101,Cognism,2,4,1,reading_level variables,cognism + german sdr hire,"Hi {{firstName}},
+
+Saw Cognism is hiring a German-speaking SDR, with a mix of cold calls, emails, LinkedIn outreach and a high volume of inbound leads to qualify.
+
+That usually means a new rep splits time between researching accounts and working leads, and the best-fit ones can get buried.
+
+Frontal embeds senior GTM engineers in your team. We build and run the outbound, signal tracking and workflows your sales team relies on, inside your CRM and Slack. For a new SDR, that means an account list that stays current, an AI-written research summary on each target account in the CRM, and account activity used to decide who to contact first.
+
+Would it help to see how that could look for the German market?
+
+Best,
+{{senderName}}"
+2,sample,greenhouse:connecteam:6228416004,Connecteam,2,4,1,reading_level variables,connecteam + smb emea sales,"Hi there,
+
+Saw you're hiring an Account Executive for SMB EMEA, someone to turn businesses that have already signed up to the platform into paying customers.
+
+With Connecteam expanding quickly, a new AE usually inherits a pile of sign-ups with no clear order. Which accounts deserve a call first, and what's happening inside them, often gets worked out by hand.
+
+We're GTM engineers who embed in your team. We keep account and contact lists current in your CRM, have an AI workflow write a research summary on each target account, and use account activity to prioritize outreach and follow-up. All of it runs inside your CRM and Slack.
+
+Is the new AE's prioritization something you've already got covered?
+
+Best,
+{{senderName}}"
+3,sample,ashby:companycam:f5fce61f-5125-404b-a2a6-4f60184d1c68,CompanyCam,2,4,0,reading_level variables,lost-lead revival playbook,"{{firstName}},
+
+Saw CompanyCam is hiring an Inside Sales Associate to win back prospects who didn't buy the first time, and to build a repeatable lead-revival playbook with RevOps.
+
+A playbook like that depends on the CRM being right: lost reasons tagged consistently, inactive contacts kept current, and a way to tell which dormant accounts are worth a call now.
+
+That's the kind of work Frontal does. Our senior GTM engineers embed in your team and build the account research, signal-based prioritization and sales workflows inside your CRM and Slack, so a new hire starts with a prioritized list instead of a raw export.
+
+Worth comparing notes on how you'd set up the lost-lead side?
+
+Best,
+{{senderName}}"
+4,sample,ashby:eye-security:cede7b0e-bc88-448a-80e9-d671176f0ea6,Eye Security,2,4,0,reading_level variables,partner lead follow-up,"Hi {{firstName}},
+
+Saw the Account Executive Cybersecurity role. The pipeline part stood out: built mostly through partner relationships and follow-up on marketing and partner leads.
+
+That usually means a new AE spends early weeks working out which leads deserve attention and digging for account context, instead of running the sales cycle.
+
+We're GTM engineers who embed in your team and work in your CRM and Slack. We build AI account research that writes the summary into your CRM, and use account activity to prioritize outreach and follow-up.
+
+Would it help if that groundwork were in place before the new AE starts?
+
+Best,
+{{senderName}}"
+5,sample,ashby:7shifts:5894f419-7e59-4ad6-8a43-3cae58733f5b,7shifts,1,3,0,variables,7shifts partner hiring,"{{firstName}},
+
+Saw 7shifts is hiring a Partner Manager, Mid-Market.
+
+A new partner role usually needs a clean list of the right accounts and some context on each one before the first conversation. That prep tends to land on whoever is already stretched.
+
+We're GTM engineers who embed in B2B tech teams and work in your CRM and Slack. We map best-fit accounts and the buyers inside them, keep both current in your CRM, and use an AI workflow to write a research summary on each target account.
+
+Is the mid-market list and account research for this role already covered?
+
+{{senderName}}"
+6,sample,greenhouse:coherehealth:8016709003,Cohere Health,1,3,0,variables,cohere health outbound research,"{{firstName}},
+
+Saw Cohere Health is hiring a BDR for the Growth team. The role includes researching payer organizations, identifying buying committees, and improving account research and cadences.
+
+That's a lot of research before any outreach even starts.
+
+At Frontal, senior GTM engineers embed in your team and work in your CRM and Slack. We map your best-fit accounts and the buyers inside them, and keep both current in your CRM. An AI workflow also researches each target account and writes the summary into your CRM, so a new BDR can start from the research instead of building it.
+
+Would it help to see how that could work for your payer accounts?
+
+Best,
+{{senderName}}"
+7,sample,ashby:incident:1b8769d0-f4ee-4f13-be95-0696e40df628,incident.io,1,2,1,subject,incident.io + AE outbound,"Hi there,
+
+Saw the Account Executive post. ""Own your own pipeline from the ground up, building target lists, running creative outreach campaigns"" is a big ask, especially with the pod model and an AI-forward bias.
+
+Most of that early time tends to go to list building and account research, before any outreach happens.
+
+That's the part we take on at Frontal. Our GTM engineers build and keep current the account and contact lists in your CRM, and run an AI workflow that writes research on each target account into the CRM. We also use account activity to prioritize outreach and follow-up. We work in your CRM and Slack like the rest of the team.
+
+Would it help to see how that could sit alongside the AE, BDR and SE pod?
+
+Best,
+Vedant"
+8,sample,ashby:trm-labs:6e0f12c5-ca3e-458a-9e0a-698d2a7e959e,TRM Labs,1,2,0,length,dach pipeline at trm,"Hi,
+
+Saw the Account Director, Private Sector (DACH) role. The post asks for a 3x qualified pipeline each quarter, and for the new hire to rank every target bank and fintech in the first 30 days and start outreach to the top tier.
+
+That is a lot to do before onboarding ends. The account lists, the research on each bank and fintech, and the signals that decide who gets contacted first usually have to exist before the first email goes out. If they don't, the new hire builds them by hand.
+
+We're Frontal. Our senior GTM engineers work inside your CRM and Slack. We map best-fit accounts and the buyers inside them, and keep both current in the CRM. An AI workflow researches each target account and writes the summary into the CRM. We use account activity to prioritize outreach and follow-up.
+
+Is the account list and research setup for DACH something you'd want in place before the hire starts?
+
+Best,
+Vedant"
+9,sample,ashby:bland:184b06fb-f1c2-4dbb-8634-8b324410a096,Bland AI,1,1,1,reading_level,bland + sales director hire,"Hi there,
+
+Saw Bland is hiring an Enterprise Sales Leader to run a team that's already in place, and to help shape the sales process, playbooks and RevOps setup as you scale.
+
+That usually means the new leader inherits the systems on day one: which accounts to target, what research reps do before outreach, and how follow-up gets prioritized. If those aren't built yet, the first months go to plumbing instead of leading the team.
+
+Frontal puts senior GTM engineers inside your team, working in your CRM and Slack. We build and run the account and contact lists, AI account research that writes summaries into the CRM, and signal-based outbound that uses account activity to prioritize outreach and follow-up.
+
+Is that something the new leader will need to sort out, or is it already covered?
+
+Best,
+Vedant"
+10,sample,ashby:deepgram:07f98531-7a03-4481-a7ff-863fb07dfccd,Deepgram,1,1,1,reading_level,deepgram + india outbound,"Hi there,
+
+Saw the Account Executive (India) role. The post says the person will own the territory end to end, build their own pipeline through self-prospecting, and shape how Deepgram sells in India rather than inherit a finished playbook.
+
+That usually means the first AE is also building the account lists, researching targets and working out who to call first, before any selling happens.
+
+We're GTM engineers who embed in B2B tech teams. We build and run the outbound, signal tracking and workflows, working in your CRM and Slack. That includes mapping best-fit accounts and the buyers inside them, and an AI workflow that researches each target account and writes the summary into your CRM.
+
+Would it help if the India AE started with that groundwork already in place?
+
+Best,
+Vedant"
+11,sample,ashby:flowengineering:51b3a34e-9915-450b-aca2-8b1c47a91119,Flow Engineering,1,1,1,reading_level,flow + first sales hires,"Hi,
+
+Saw Flow is hiring a Director of Sales to build the team and run land-and-expand across named enterprise accounts in engineering, hardware, and aerospace/defense.
+
+When the role says ""build process as you go,"" the first few months usually go to the unglamorous stuff: which accounts to chase, who the buyers are inside them, and keeping the CRM current while the first AEs ramp.
+
+We're GTM engineers who embed with your team. We map best-fit accounts and the buyers inside them, have an AI workflow research each target account and write the summary into your CRM, and use account activity to prioritize outreach and follow-up. All of it runs in your CRM and Slack.
+
+Would a ready account list and research in the CRM be useful for your new Director's first day?
+
+Best,
+Vedant"
+12,sample,ashby:fonoa:8fbba6f3-a11a-4dd7-8afe-44c26e59fb15,Fonoa,1,1,1,reading_level,fonoa revops hire,"Hi,
+
+Saw Fonoa is hiring a Senior Revenue Operations Manager to scale the systems, workflows and automation behind your go-to-market team. The post mentions Salesforce, HubSpot, Gong and Clay.
+
+A role like that often ends up split between keeping the CRM clean and building new automation. Account lists, account research and signal tracking tend to compete with everything else on the list.
+
+We're Frontal. Our senior GTM engineers embed in your team and build and run the outbound, signal tracking and workflows your sales team relies on, working in your CRM and Slack. That includes account and contact lists kept current in your CRM, and an AI workflow that researches each target account and writes the summary into the CRM.
+
+Would it be useful to hear how that could sit alongside the new RevOps hire?
+
+Best,
+Vedant"
+13,sample,ashby:frontify:781dcbc5-a29c-44dd-8c4d-80709facd73e,Frontify,1,1,1,reading_level,frontify + outbound,"Hi there,
+
+Saw Frontify is hiring an SDR for the US market, with the role built around outbound, personalized cold calls and emails, and a high volume of target accounts to research and prioritize.
+
+That setup usually puts a lot of weight on the person: researching each account and persona by hand, keeping lists current, and deciding who to chase first.
+
+We're GTM engineers who embed in your team. We build and run the account and contact lists, an AI workflow that researches each target account and writes the summary into your CRM, and signal-based outbound that uses account activity to prioritize outreach and follow-up. We work in your CRM and Slack like the rest of your team.
+
+Is that research and prioritization work something you'd want in place before the new SDR starts?
+
+Best,
+Frontal"
+14,sample,ashby:laurel:0ac0fb9f-61f8-4c46-8e1e-304b097af5b3,Laurel,1,1,1,reading_level,laurel + sales workflows,"Hi there,
+
+Saw Laurel is hiring an Enterprise Account Executive to build pipeline, keep Salesforce clean, and operationalize a founder-led sales playbook.
+
+That's a lot to land on one new rep. Pipeline building, research, call prep and CRM hygiene tend to eat selling time unless someone builds the systems behind them first.
+
+Frontal places senior GTM engineers inside your team. We build and run the outbound, signal tracking and workflows your sales team relies on, working in your CRM and Slack. That includes account and contact lists kept current in your CRM, AI account research written straight into each record, and signal-based prioritization of outreach and follow-up.
+
+Would it help to have that in place before your new AE starts?
+
+Best,
+Vedant"
+15,sample,ashby:plentific:65f97320-495c-4636-a70a-89307a6eb561,Plentific,1,1,1,reading_level,plentific gtm engineer,"Hi,
+
+Saw the Commercial AI Ops (GTM Engineer) role at Plentific. The parts on target account list prioritisation and automating outreach plays over time stood out, along with the Salesforce, Salesloft, N8N and Clay stack.
+
+That's a lot to land for one hire: account lists, enrichment, outreach plays and the automations behind them, all while the team keeps selling.
+
+We're Frontal. We embed senior GTM engineers in your team to build and run that work: account and contact lists kept current in your CRM, AI account research written into the CRM, signal-based outbound, and the sales workflows your team uses daily. We work in your CRM and Slack like the rest of your team.
+
+Is the role meant to build all of this from scratch, or is there already a base to extend?
+
+Best,
+Frontal"
+16,sample,ashby:tenex:85a88401-3eaf-4a1e-9fae-d7428654c7a0,TENEX.AI,1,1,1,reading_level,tenex + pod pipeline,"Hi there,
+
+Saw the Regional Sales Director post. A player-coach who carries quota, coaches a pod of ESDs, and helps hire the future BDR is a lot, especially with account-ownership disputes to settle with RevOps and partner pipeline to build with the Google Cloud Security and Wiz field teams.
+
+That kind of role usually ends up doing list building, account research and follow-up by hand.
+
+Frontal embeds senior GTM engineers in your team. We map your best-fit accounts and buyers and keep them current in your CRM. An AI workflow researches each target account and writes the summary into the CRM. We also use account activity to prioritize outreach and follow-up, all inside your CRM and Slack.
+
+Is getting that groundwork off the new director's plate something you're thinking about?
+
+Best,
+Vedant"
+17,sample,ashby:tracksuit:47dad54e-c56f-4dfc-9cee-81cd7850e11e,Tracksuit,1,1,1,reading_level,tracksuit uk outbound,"Hi there,
+
+Saw the Account Executive role for the UK and Europe. The post asks for someone who has worked outbound opportunities, not just inbound, alongside your UK SDRs and the wider go-to-market team.
+
+A new AE in a fast-growing region usually inherits a lot of build work: which accounts to target, who the buyers are, and which accounts are showing activity worth acting on. That can eat the time meant for selling.
+
+Frontal provides senior GTM engineers who embed in your team. We map best-fit accounts and the buyers inside them and keep both current in your CRM. We also use account activity to prioritize outreach and follow-up, and an AI workflow writes account research into the CRM, so your SDRs and AE start from the same picture.
+
+Would it help to see how that could look for the UK and Europe?
+
+Best,
+Frontal"
+18,sample,greenhouse:hiddenlayer:5270420007,HiddenLayer,1,1,1,reading_level,hiddenlayer federal sales,"Hi there,
+
+Saw the Director of Federal Sales role, a player-coach who will build the federal org, tighten forecasting and keep account plans current in Salesforce and Clari. With the new $100M Series B going into GTM, that person will be building a lot from scratch.
+
+The early gap is usually the groundwork: a clean list of federal accounts and the buyers inside them, research on each target, and a way to know which accounts are active so outreach goes to the right ones first.
+
+Frontal places senior GTM engineers inside B2B tech teams. We build and run account and contact lists, AI-driven account research written into your CRM, and signal-based outbound, working in your CRM and Slack like the rest of the team.
+
+Would it help to see how that could support the federal hire from day one?
+
+Best,
+Vedant"
+19,sample,greenhouse:ketryx:5450232008,Ketryx,1,1,1,reading_level,ketryx smb playbook,"Hi there,
+
+Saw you're hiring an SMB Account Executive, and the post mentions shaping the playbook with strong inbound and a big untapped TAM.
+
+That mix is usually where a new AE hits a ceiling: inbound fills the calendar, but nobody has mapped the rest of the SMB accounts in regulated industries or tracked which ones are showing activity. The AE ends up researching accounts by hand instead of closing.
+
+We're Frontal. We embed senior GTM engineers in your team to build the account and contact lists in your CRM, an AI workflow that writes account research into each record, and signal-based outbound that tells reps who to follow up with first. We work in your CRM and Slack like the rest of your team.
+
+Is outbound for the SMB segment something you're planning alongside this hire?
+
+Best,
+Frontal"
+20,sample,greenhouse:lighthouse:5011120101,Lighthouse,1,1,1,reading_level,lighthouse ae hiring,"Hi,
+
+Saw the Czech or Hungarian-speaking AE role. The post says cold outbound into ICP accounts is the core of the job, it's not SDR-reliant, and reps run an AI-first workflow for account research, buying signals and sequencing.
+
+That setup works best when the lists, research and signal tracking are built and kept current behind the rep. Otherwise each AE ends up assembling them alone, and new-language markets are where that gets slow.
+
+Frontal is senior GTM engineers embedded in your team. We build and run the account and contact lists, AI account research written into your CRM, and signal-based outbound, working in your CRM and Slack.
+
+Is anyone on your side owning that infrastructure for the new AE, or is it still open?
+
+Best,
+Vedant"
+21,sample,lever:vivenu:c3d42763-de3c-4cc8-a981-f0904a4642d3,vivenu,1,1,1,reading_level,vivenu sales enablement,"Hi there,
+
+Saw vivenu is hiring a Global Sales Enablement Director. The part about auditing the global funnel for conversion bottlenecks and turning deal wins into repeatable playbooks and KPI dashboards stood out.
+
+In a role like that, a lot of the early work is usually getting clean account and contact data, and a clear view of which accounts are active, before any playbook can be tested. That tends to live in the CRM and take real time to build.
+
+That's what we do at Frontal. Our senior GTM engineers embed in your team and build and run the account and contact lists, AI account research written into your CRM, and signal-based outbound that prioritizes outreach and follow-up. We work in your CRM and Slack like the rest of your team.
+
+Would it help to see how that could support the new enablement lead's first months?
+
+Best,
+Frontal"
+22,sample,ashby:dotfile:1ef4aa35-93d1-4854-98ee-f371a43e75c7,Dotfile,1,1,0,reading_level,dotfile emea outbound,"Hi,
+
+Saw Dotfile is hiring a Sales Director EMEA, reporting to the CRO, with the job of building the outbound acquisition machine and owning SalesOps.
+
+That's a lot to land while also leading a team of AEs: target lists, account research, follow-up priorities, forecasting and tooling.
+
+We're Frontal. Our senior GTM engineers embed in your team and build and run the outbound, signal tracking and workflows your sales team relies on, working in your CRM and Slack. That could mean the new director isn't building the engine alone.
+
+Would it help to see how that could look for EMEA?
+
+Best,
+Vedant"
+23,sample,ashby:vendelux:5a92f6ef-280f-4ac6-a22e-d14d42ec8ad3,Vendelux,1,1,0,reading_level,vendelux mid-market playbook,"Hi there,
+
+Saw Vendelux is hiring a Manager, Mid-Market Sales, someone to ""build the playbook"" and own bookings, pipeline health and forecast accuracy.
+
+A new manager usually inherits the lists, account research and follow-up habits the team already has, and has to rebuild them while also owning the number.
+
+Frontal is GTM engineering for B2B tech companies. Our senior GTM engineers embed in your team and build and run the account and contact lists, AI account research written into your CRM, and signal-based outbound, working in your CRM and Slack.
+
+Would it help to have that in place before the new manager starts?
+
+Best,
+Frontal"
+24,sample,ashby:xapien:82ae140e-ace9-4867-974c-d7454a72aa23,Xapien,1,1,0,reading_level,xapien + sdr playbooks,"Hi,
+
+Saw you're hiring an SDR Manager to scale the team across London and Boston.
+
+The post mentions building outbound playbooks and cadences, and working with RevOps on the CRM and data tools, while processes are still being built. A new manager in that spot can end up spending early months on lists, research and workflow plumbing instead of coaching reps.
+
+We're Frontal. Our senior GTM engineers embed in your team and build and run the account and contact lists, AI account research written into your CRM, and signal-based outbound, working in your CRM and Slack.
+
+Would it help to have that groundwork in place for the new SDR Manager?
+
+Best,
+The Frontal team"
+25,sample,greenhouse:buynomics:5004674101,Buynomics,1,1,0,reading_level,buynomics revops automation,"Hi there,
+
+Saw the Revenue Operations Manager - Systems & Automation opening. Owning Salesforce, HubSpot and the n8n, Zapier and Claude layer connecting them is a lot for one seat.
+
+Until that person is in and ramped, the account lists, account research and follow-up workflows still need building.
+
+That's what we do at Frontal: senior GTM engineers embedded in your team, working in your CRM and Slack. We build and run account and contact lists, AI account research written into your CRM, and signal-based outbound.
+
+Would it help to have that running alongside the new hire, or is the plan to build it all in-house?
+
+Best,
+Frontal"
+26,sample,greenhouse:emnify:5004134101,emnify,1,1,0,reading_level,emnify + gtm engineering,"Hi,
+
+Saw the new GTM Engineer role in Berlin, owning emnify's outbound engine and data enrichment, with the AI and automation infrastructure still greenfield.
+
+Greenfield usually means a lot of groundwork before Claude and Clay agents can do much: current account and contact lists, research written into Salesforce, and signals that decide who gets outreach first.
+
+That's what we build at Frontal. Senior GTM engineers embedded in your team, building and running the outbound, signal tracking and workflows your sales team relies on, working in your CRM and Slack like the rest of the team.
+
+Would it help to have that groundwork moving alongside the hire, or is the plan to build it all in-house?
+
+Best,
+Vedant"
+27,sample,greenhouse:levanta:5449319008,Levanta,1,1,0,reading_level,levanta + outbound,"Hi,
+
+Saw Levanta is hiring an SDR for high-volume outbound across email, phone and LinkedIn, right after the $22 million Series B.
+
+When a first SDR joins, the list building, account research and CRM upkeep usually land on them too, and that time comes out of actual selling.
+
+Frontal provides senior GTM engineers who embed in your team. We build and run the account and contact lists, an AI workflow that writes account research into your CRM, and signal-based outreach prioritization, all working in your CRM and Slack.
+
+Would it help to see how that could sit behind the new SDR?
+
+Best,
+Frontal"
+28,sample,greenhouse:reachdesk:5008332101,Reachdesk,1,1,0,reading_level,reachdesk + bdr hire,"Hi there,
+
+Saw Reachdesk is hiring a Business Development Representative. The post asks for outbound strategy, buying signal analysis, ABM research and org mapping, plus keeping Salesforce and Salesloft clean.
+
+That's a lot for one person. Research, signal monitoring and CRM upkeep tend to crowd out the actual conversations.
+
+We're Frontal. Our GTM engineers embed in your team and build the account and contact lists, the AI account research that writes summaries into your CRM, and the signal-based prioritization, so a new BDR starts with that groundwork already running.
+
+Would it help to hear how that could sit alongside this hire?
+
+Best,
+Vedant"
+29,sample,ashby:tandem-health:45127750-a500-4e8b-acf4-96bc27cd8d28,Tandem Health,0,0,1,,tandem + rest of world,"Hi there,
+
+Saw the Account Executive - Rest of World role. Opening new markets from zero, mapping the healthcare landscape and picking the first target accounts, is a lot to put on one person who also has to keep CRM and forecasting tidy.
+
+That first stretch usually goes to list building and account research before any real selling starts.
+
+We're Frontal. Our GTM engineers embed in your team and work in your CRM and Slack. We map best-fit accounts and the buyers inside them and keep both current in your CRM. An AI workflow researches each target account and writes the summary into the CRM. We also use account activity to prioritize outreach and follow-up.
+
+Would it help to have that groundwork in place before the new AE starts?
+
+Best,
+Frontal"
+30,sample,ashby:upguard:3bb5ca65-9140-482c-bd49-b9d75ba68b0a,UpGuard,0,0,1,,upguard + sales team,"Hi,
+
+Saw the Regional Sales Manager role: a new North America team of around 7 AEs, right after the Series C.
+
+A team that size usually outgrows its tooling quickly. Account lists go stale, research happens rep by rep, and the new manager coaches in Gong and HubSpot without a clear view of which accounts are worth the next call.
+
+We're Frontal. Our GTM engineers embed in your team and build the account and contact lists, AI account research written into your CRM, and signal-based outbound that tells reps where to focus. We work in your CRM and Slack like the rest of your team.
+
+Is getting the new team's pipeline infrastructure in place part of what this hire will own?
+
+Best,
+Frontal"
+31,sample,lever:cents:5dc3920e-0f7c-43ff-9079-44d214bcadf2,Cents,0,0,1,,cents + outbound,"Hi,
+
+Saw Cents is hiring a BDR to run cold outreach (calls, text, email, social) to single-store and multi-store laundromat owners, with activity logged in Salesforce.
+
+A new BDR usually spends the first weeks building target lists, researching owners, and deciding who to contact first. That's before any real outreach happens.
+
+That's the part we take on. We're senior GTM engineers embedded in your team. We map the best-fit laundromat accounts and the owners inside them and keep both current in your CRM. An AI workflow researches each account and writes the summary into the record. We use account activity to prioritize outreach and follow-up.
+
+Your BDR would start with a prioritized list and context already in Salesforce.
+
+Would it be useful to see how that would look for Cents?
+
+Best,
+Vedant"
+32,sample,ashby:abacum:abe13b44-f70c-4428-877c-bb0c1efb1812,Abacum,0,0,0,,abacum + partner pipeline,"Hi there,
+
+Saw Abacum is hiring a Senior Partner Account Manager.
+
+A new partner role usually means more accounts and contacts to track, and someone has to keep that list current and decide who to reach out to first.
+
+That's the work we do. Frontal provides senior GTM engineers, embedded in your team. We map your best-fit accounts and the buyers inside them, keep both current in your CRM, and use account activity to prioritize outreach and follow-up. We work in your CRM and Slack like the rest of your team.
+
+Is the partner hire meant to add pipeline, or mostly to support the accounts you already have?
+
+Best,
+[Sender name]"
+33,sample,ashby:vertice:bf1ae485-99a4-4190-b33e-a8e158972b0a,Vertice,0,0,0,,vertice apac hire,"Hi there,
+
+Saw Vertice is hiring an Account Executive for APAC, someone to source, manage and close mid-market deals on their own.
+
+A new AE in a new region usually starts with a thin account list and little context on who to call first. Much of the early weeks goes to manual research and CRM cleanup instead of selling.
+
+We're Frontal. Our senior GTM engineers embed in your team and build the account and contact lists, AI account research written into your CRM, and signal-based outreach prioritization, working in your CRM and Slack.
+
+Is the APAC AE starting from a built list, or from scratch?
+
+Best,
+Frontal"
+34,sample,greenhouse:datarails:4438253009,Datarails,0,0,0,,datarails + sales lead hire,"Hi there,
+
+Saw Datarails is hiring a player/coach Sales Team Lead, someone who closes their own deals while helping AEs spot pipeline gaps and fix processes that are still evolving.
+
+In a role like that, the lead often ends up building the lists, account research and follow-up routines by hand, on top of selling and coaching.
+
+We're GTM engineers embedded in B2B tech teams. We build and run the account and contact lists in your CRM, AI account research written into each record, and signal-based outreach that tells reps who to follow up with. It all lives in your CRM and Slack.
+
+Would it help if the new lead started with that groundwork already in place?
+
+Best,
+Vedant"
